@@ -6,7 +6,7 @@
 
 ## 下载
 
-- [轻量 Skill ZIP](https://github.com/zyfjacksonchen-source/ppt-plan-beautify/releases/download/v1.0.1/ppt-plan-beautify-1.0.1.zip)：用于 e-Mate SkillHub，约 350 KiB。
+- [轻量 Skill ZIP](https://github.com/zyfjacksonchen-source/ppt-plan-beautify/releases/download/v1.0.1/ppt-plan-beautify-1.0.1.zip)：用于 e-Mate SkillHub，约 391 KiB。
 - [完整模板资源 ZIP](https://github.com/zyfjacksonchen-source/ppt-plan-beautify/releases/download/v1.0.0/ppt-template-resources-1.0.0.zip)：9 套原生 PPTX 和 100 张预览，约 316 MiB。
 - [Release 全部资源与校验和](https://github.com/zyfjacksonchen-source/ppt-plan-beautify/releases/tag/v1.0.0)：也可按主题下载，默认主题约 19 MiB。
 
