@@ -1,6 +1,6 @@
 ---
 name: xiaohongshu-casecraft
-version: 1.0.0
+version: 1.0.1
 icon: assets/icon.png
 description: 将用户已提供的案例或方案文字，按逻辑关系结构化并制作成可编辑的模板化 PPTX。支持100种运营策略原生模板、九套配色和自定义HEX主题色。适用于纯文字转演示文稿、案例/方案排版美化及模板替换；不研究业务、不创作策略、不补充客户事实，不调用案例学习或行业知识库。
 ---
