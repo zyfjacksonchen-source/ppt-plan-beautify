@@ -1,0 +1,9 @@
+interface:
+  display_name: "ppt方案美化"
+  icon_small: "./assets/icon.png"
+  icon_large: "./assets/icon.png"
+  brand_color: "#6D4AFF"
+  short_description: "将已有文字按逻辑结构整理成模板PPT，支持100种版式与自定义配色"
+  default_prompt: "使用 $xiaohongshu-casecraft，将我提供的文字按原有逻辑结构化，选择适配模板制作可编辑PPT；保留原意，不新增业务内容或套用历史案例。"
+policy:
+  allow_implicit_invocation: true

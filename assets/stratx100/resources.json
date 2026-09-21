@@ -1,0 +1,777 @@
+{
+  "schema_version": 1,
+  "version": "1.0.0",
+  "origins": [
+    "https://github.com/zyfjacksonchen-source/ppt-plan-beautify/releases/download/v1.0.0"
+  ],
+  "files": [
+    {
+      "id": "indigo-dawn-murmur",
+      "file": "decks/BerryPPT©StratX100-进阶版-幽蓝晨语 Indigo Dawn Murmur.pptx",
+      "key": "indigo-dawn-murmur.pptx",
+      "size": 40177018,
+      "sha256": "724dcb9a7f3a29af4afb0504eb915c69d9dc7b9b6a3600712357c7ec7257129b"
+    },
+    {
+      "id": "spring-grove-walk",
+      "file": "decks/BerryPPT©StratX100-进阶版-春林漫步 Spring Grove Walk.pptx",
+      "key": "spring-grove-walk.pptx",
+      "size": 40140996,
+      "sha256": "98dbbb6acb38dcfc2497ce196757084b9e8d1d2941d0d4fc4f670d1bc4f445c0"
+    },
+    {
+      "id": "morning-bay-haze",
+      "file": "decks/BerryPPT©StratX100-进阶版-晨湾绿意 Morning Bay Haze.pptx",
+      "key": "morning-bay-haze.pptx",
+      "size": 20057668,
+      "sha256": "8e5389c9c4740c3facfdddf53f1e322a5786bf8cbbcf76665ef0b8bb8374feee"
+    },
+    {
+      "id": "soft-ember-dusk",
+      "file": "decks/BerryPPT©StratX100-进阶版-暮色轻燃 Soft Ember Dusk.pptx",
+      "key": "soft-ember-dusk.pptx",
+      "size": 40172623,
+      "sha256": "4c983b84440a3898ba86e45072996554b7c232b69ec89062e3be3243639e830b"
+    },
+    {
+      "id": "clear-lake-gleam",
+      "file": "decks/BerryPPT©StratX100-进阶版-澄湖微光 Clear Lake Gleam.pptx",
+      "key": "clear-lake-gleam.pptx",
+      "size": 40019115,
+      "sha256": "9de32d1871a4484c799ad563795f6e4f7eebee3b6292ef86802ad9d758d55f5c"
+    },
+    {
+      "id": "green-field-whisper",
+      "file": "decks/BerryPPT©StratX100-进阶版-翠野轻语 Green Field Whisper.pptx",
+      "key": "green-field-whisper.pptx",
+      "size": 40143969,
+      "sha256": "743c038bb7cf3ab61d57e16759b40f33f41881e48696627064e6aa1f20d9c739"
+    },
+    {
+      "id": "blue-mist-dawn",
+      "file": "decks/BerryPPT©StratX100-进阶版-蓝雾晨曦 Blue Mist Dawn.pptx",
+      "key": "blue-mist-dawn.pptx",
+      "size": 40173685,
+      "sha256": "d57413d56ad234b1330e995672c041f30bf8c8b385d87ec5db192854b68cb16d"
+    },
+    {
+      "id": "blush-glow-veil",
+      "file": "decks/BerryPPT©StratX100-进阶版-霞影微尘 Blush Glow Veil.pptx",
+      "key": "blush-glow-veil.pptx",
+      "size": 40177261,
+      "sha256": "4b0014236f68aa9f4b1ff653e169f6026cd7dafb8af1b01c9cf24a06793b9959"
+    },
+    {
+      "id": "silent-night-mist",
+      "file": "decks/BerryPPT©StratX100-进阶版-静夜晴岚 Silent Night Mist.pptx",
+      "key": "silent-night-mist.pptx",
+      "size": 40172657,
+      "sha256": "ba0c4978f9da6f24346bb82337bb64e0c769c253b8984bdbfa989961068eba7e"
+    },
+    {
+      "id": "preview-001",
+      "file": "previews/001.png",
+      "key": "preview-001.png",
+      "size": 101144,
+      "sha256": "ea688983ecd310a01a949326a265e6e565fc60d2755218e361a09cb904d66f4a"
+    },
+    {
+      "id": "preview-002",
+      "file": "previews/002.png",
+      "key": "preview-002.png",
+      "size": 92957,
+      "sha256": "5cadeb9f29acb3c05a53481681a09292f543cfc98b67b2f2fc1a9c3c82544a6f"
+    },
+    {
+      "id": "preview-003",
+      "file": "previews/003.png",
+      "key": "preview-003.png",
+      "size": 94401,
+      "sha256": "cb52f8ce55aa1ded770e323a5f16277e497d76d90be08cd3197c2c3e863312c5"
+    },
+    {
+      "id": "preview-004",
+      "file": "previews/004.png",
+      "key": "preview-004.png",
+      "size": 93007,
+      "sha256": "75a9450e4338d93a67ff78de1c6347aeafbaee83a054224f570e0440733b21da"
+    },
+    {
+      "id": "preview-005",
+      "file": "previews/005.png",
+      "key": "preview-005.png",
+      "size": 109480,
+      "sha256": "e9329569c86f27bbb742487cf7729d525751c0b8670d362c7c0a4394a4f2ef89"
+    },
+    {
+      "id": "preview-006",
+      "file": "previews/006.png",
+      "key": "preview-006.png",
+      "size": 119798,
+      "sha256": "497145c39ba661cc92cdda80dfa851d106ce2b6a8ff38e54425c759e6e50f907"
+    },
+    {
+      "id": "preview-007",
+      "file": "previews/007.png",
+      "key": "preview-007.png",
+      "size": 81526,
+      "sha256": "37f1476a0067e2be1e659fa023a31651b4a90e94146db2ab57358d71963031d3"
+    },
+    {
+      "id": "preview-008",
+      "file": "previews/008.png",
+      "key": "preview-008.png",
+      "size": 100704,
+      "sha256": "47d2908294e22e82537f93b19d61740235dd9a570a93afaaec7d0b9a2ec08982"
+    },
+    {
+      "id": "preview-009",
+      "file": "previews/009.png",
+      "key": "preview-009.png",
+      "size": 100392,
+      "sha256": "b33cd3fd539fd44fc7634a803600f5663719a8ff25355967d0e114924541bac2"
+    },
+    {
+      "id": "preview-010",
+      "file": "previews/010.png",
+      "key": "preview-010.png",
+      "size": 90641,
+      "sha256": "d55d6ae7584c91b907bbed5601e2c721d2aebb405c6dc26481195aae136f0362"
+    },
+    {
+      "id": "preview-011",
+      "file": "previews/011.png",
+      "key": "preview-011.png",
+      "size": 90123,
+      "sha256": "6ed45d0e0597eb266aadadec6dc267dcd7a711b4eb1114a89bc2b34ec5e029a8"
+    },
+    {
+      "id": "preview-012",
+      "file": "previews/012.png",
+      "key": "preview-012.png",
+      "size": 116757,
+      "sha256": "83cb176b9fbff787eb6f307173ae29b95b89731885f1ac3b17abe1514f45a24c"
+    },
+    {
+      "id": "preview-013",
+      "file": "previews/013.png",
+      "key": "preview-013.png",
+      "size": 92855,
+      "sha256": "45956195f7260c7eeb1749b08d0367e3f88fa567d4ea41142de68ea19641b3dc"
+    },
+    {
+      "id": "preview-014",
+      "file": "previews/014.png",
+      "key": "preview-014.png",
+      "size": 112479,
+      "sha256": "8e5b81b9c09a93c232c5ae72f1ed85c8dbc06275334fa5b88657a07f7df1a9f4"
+    },
+    {
+      "id": "preview-015",
+      "file": "previews/015.png",
+      "key": "preview-015.png",
+      "size": 95838,
+      "sha256": "cf655c1436307423de2b746d231074b85c0f3d7f22ed68c3d58d4571d98fdaf0"
+    },
+    {
+      "id": "preview-016",
+      "file": "previews/016.png",
+      "key": "preview-016.png",
+      "size": 76472,
+      "sha256": "b501ddfa215cc6c34f8f93429e843106bebea86b8f0782ab7086b381c60b053c"
+    },
+    {
+      "id": "preview-017",
+      "file": "previews/017.png",
+      "key": "preview-017.png",
+      "size": 73900,
+      "sha256": "e6c7dba8120751334a21259c1fe950eea698e1813840e5c33900939cbeb56c20"
+    },
+    {
+      "id": "preview-018",
+      "file": "previews/018.png",
+      "key": "preview-018.png",
+      "size": 99859,
+      "sha256": "a8dcee383c7b8e244a04c5ba71a8ae304a539416fc7ac808497217eea46342d8"
+    },
+    {
+      "id": "preview-019",
+      "file": "previews/019.png",
+      "key": "preview-019.png",
+      "size": 91905,
+      "sha256": "5bb822b01fdc8eb924003c2e9aecd6afae7f71b8e44ef43f433cd4795b91b38f"
+    },
+    {
+      "id": "preview-020",
+      "file": "previews/020.png",
+      "key": "preview-020.png",
+      "size": 108843,
+      "sha256": "7734d2f6b3dac789980c71b0bbbebc7f959d5a46eca53266b8fd6c49e1ad4426"
+    },
+    {
+      "id": "preview-021",
+      "file": "previews/021.png",
+      "key": "preview-021.png",
+      "size": 101860,
+      "sha256": "390a842f6bb71a29dbaf5f6db1d3ef0d562ae62c484e97d507846018c3b764bd"
+    },
+    {
+      "id": "preview-022",
+      "file": "previews/022.png",
+      "key": "preview-022.png",
+      "size": 93939,
+      "sha256": "4d5b61c49156a4257105d8fd2a029631621a0716badd9b845834272a62b5e58f"
+    },
+    {
+      "id": "preview-023",
+      "file": "previews/023.png",
+      "key": "preview-023.png",
+      "size": 90399,
+      "sha256": "6c78e0344671cf3310d6dc454040270fc9bae362c3ee5dbbaa04b2d3efeec18f"
+    },
+    {
+      "id": "preview-024",
+      "file": "previews/024.png",
+      "key": "preview-024.png",
+      "size": 112469,
+      "sha256": "2ebd3f8221878c1e3122055f4241bf525701896cc59723685e705f1b842ac66a"
+    },
+    {
+      "id": "preview-025",
+      "file": "previews/025.png",
+      "key": "preview-025.png",
+      "size": 84052,
+      "sha256": "d12e800595fd0f1cb8e5339cb95895a8c3bf994b62e440972ba38668ed1fa1fa"
+    },
+    {
+      "id": "preview-026",
+      "file": "previews/026.png",
+      "key": "preview-026.png",
+      "size": 112398,
+      "sha256": "8bd050001fca6254380a1e795ebb4da9ff24ffcdd98954063f96241a8a4c51c0"
+    },
+    {
+      "id": "preview-027",
+      "file": "previews/027.png",
+      "key": "preview-027.png",
+      "size": 91351,
+      "sha256": "97594bd7c6721c9fead865874b318c209847b3292d5c9fc25e862e83a9c6312a"
+    },
+    {
+      "id": "preview-028",
+      "file": "previews/028.png",
+      "key": "preview-028.png",
+      "size": 90467,
+      "sha256": "82cad2857947f045174e54a7d3f4ea3f56b57a78d7e1a928f82ddd727c1ae32d"
+    },
+    {
+      "id": "preview-029",
+      "file": "previews/029.png",
+      "key": "preview-029.png",
+      "size": 114888,
+      "sha256": "fdc91a6b32172341f440e413b59b664d6a69f885b2033cff6ef86db296f2b9fd"
+    },
+    {
+      "id": "preview-030",
+      "file": "previews/030.png",
+      "key": "preview-030.png",
+      "size": 113619,
+      "sha256": "3d1182b721556cf9e25cce20cc2a15fa2f940fd3f595d2fa54857a1793961001"
+    },
+    {
+      "id": "preview-031",
+      "file": "previews/031.png",
+      "key": "preview-031.png",
+      "size": 102035,
+      "sha256": "b886d3f2e658602b6c32bdfd4d9dfb33a41a76a2cccb0ee7e50787580d39bf8c"
+    },
+    {
+      "id": "preview-032",
+      "file": "previews/032.png",
+      "key": "preview-032.png",
+      "size": 93025,
+      "sha256": "e43c003f0b552d8d0de00fa2c123027bd3a10b2487bcf530d60680cc8a7286e0"
+    },
+    {
+      "id": "preview-033",
+      "file": "previews/033.png",
+      "key": "preview-033.png",
+      "size": 107297,
+      "sha256": "199077eb44ba58222ead0d3136b7ee26a45c3157324fee4ce4660e3e9e192c57"
+    },
+    {
+      "id": "preview-034",
+      "file": "previews/034.png",
+      "key": "preview-034.png",
+      "size": 114534,
+      "sha256": "9a6013bd4e235a2dd915ce9427e9bceeb8c75de67519e1e67b172490c46079e1"
+    },
+    {
+      "id": "preview-035",
+      "file": "previews/035.png",
+      "key": "preview-035.png",
+      "size": 122286,
+      "sha256": "1dcf4bc9a6e2fb160a15744ad51d197922c576b6832066bbf6e2037b101182c1"
+    },
+    {
+      "id": "preview-036",
+      "file": "previews/036.png",
+      "key": "preview-036.png",
+      "size": 98274,
+      "sha256": "99da6420a5a7a304ff3e37e7f33fab0c3262f04e16fe78e23617593aa18d6eb4"
+    },
+    {
+      "id": "preview-037",
+      "file": "previews/037.png",
+      "key": "preview-037.png",
+      "size": 111568,
+      "sha256": "6a98eda87174cdacdad29430a9b026d1266b0c1699eb4f088155458e35b371db"
+    },
+    {
+      "id": "preview-038",
+      "file": "previews/038.png",
+      "key": "preview-038.png",
+      "size": 99644,
+      "sha256": "473422de29c49e3ece392a161d2db0c4c3c30e6cfef7c3619f731bd83027d51f"
+    },
+    {
+      "id": "preview-039",
+      "file": "previews/039.png",
+      "key": "preview-039.png",
+      "size": 97809,
+      "sha256": "23915ef3fe0fd2464d7c7201d985903104631f1f1483d7d7d9aa4c79bd1065d5"
+    },
+    {
+      "id": "preview-040",
+      "file": "previews/040.png",
+      "key": "preview-040.png",
+      "size": 100532,
+      "sha256": "b557769f04cbe12b56d250103de61a9d67c970a20fe7d3369a3586aa4fd30a28"
+    },
+    {
+      "id": "preview-041",
+      "file": "previews/041.png",
+      "key": "preview-041.png",
+      "size": 116532,
+      "sha256": "4cb5d3d6b98239a5c2e4242fa590e365b6947650641d88cab725da6807e1dd09"
+    },
+    {
+      "id": "preview-042",
+      "file": "previews/042.png",
+      "key": "preview-042.png",
+      "size": 110207,
+      "sha256": "f337c031886b31b5dd08d07dce41f99dce0f5ef7466dd4cad8260df857f4607f"
+    },
+    {
+      "id": "preview-043",
+      "file": "previews/043.png",
+      "key": "preview-043.png",
+      "size": 114088,
+      "sha256": "319b53e412638aeb4097d85a4673e0582446615d5cb8da2fe07cce66bdc7e63c"
+    },
+    {
+      "id": "preview-044",
+      "file": "previews/044.png",
+      "key": "preview-044.png",
+      "size": 115447,
+      "sha256": "010f140818df938c81c49db8dc5ecefa307e4c6e760b1ece6c23b6bbff1c7898"
+    },
+    {
+      "id": "preview-045",
+      "file": "previews/045.png",
+      "key": "preview-045.png",
+      "size": 97480,
+      "sha256": "cda331b16e75b5e1c8a89b502f0d82fcf157daaa360eedda1b6851f88428086c"
+    },
+    {
+      "id": "preview-046",
+      "file": "previews/046.png",
+      "key": "preview-046.png",
+      "size": 126097,
+      "sha256": "8eb56f2e03ddf12b2785b03fe6fe6803c40c7291f58fb256567f85a5109c36b1"
+    },
+    {
+      "id": "preview-047",
+      "file": "previews/047.png",
+      "key": "preview-047.png",
+      "size": 123570,
+      "sha256": "1bce29c464d6d1fe3a78b36c5072acf263bda8036db1fcca457bafb2afa7a166"
+    },
+    {
+      "id": "preview-048",
+      "file": "previews/048.png",
+      "key": "preview-048.png",
+      "size": 97788,
+      "sha256": "9ae23bba7e1a33e94af7c797496efd41c3a8b48aff262b6505ab694abc17d417"
+    },
+    {
+      "id": "preview-049",
+      "file": "previews/049.png",
+      "key": "preview-049.png",
+      "size": 98837,
+      "sha256": "a7ea99697d986e7636362a4f0d2406a761fa61d2318461419d6a842a8b5abde9"
+    },
+    {
+      "id": "preview-050",
+      "file": "previews/050.png",
+      "key": "preview-050.png",
+      "size": 87059,
+      "sha256": "8d78d8dec840ddf2a224622370118ce2130e4e9377ea53a8ff18fc20ed8371cf"
+    },
+    {
+      "id": "preview-051",
+      "file": "previews/051.png",
+      "key": "preview-051.png",
+      "size": 160542,
+      "sha256": "b5c423885046fcf417d67e3452669434e58a5bbf4bdd4ee2a9dac608b7902429"
+    },
+    {
+      "id": "preview-052",
+      "file": "previews/052.png",
+      "key": "preview-052.png",
+      "size": 109770,
+      "sha256": "33cd1591da3c473664b8ea69389b1bf2d7b4b4c84f603dd770422dee5b10fb9f"
+    },
+    {
+      "id": "preview-053",
+      "file": "previews/053.png",
+      "key": "preview-053.png",
+      "size": 94872,
+      "sha256": "65f3f65c36d2685c2bab0fe07cfbd94e5906750df3d3e4a7ed08da5feb97843b"
+    },
+    {
+      "id": "preview-054",
+      "file": "previews/054.png",
+      "key": "preview-054.png",
+      "size": 91117,
+      "sha256": "10cc9b00f94bcdbe747cda2caeae184eca5771f1202af314150e80ad026ca63c"
+    },
+    {
+      "id": "preview-055",
+      "file": "previews/055.png",
+      "key": "preview-055.png",
+      "size": 106407,
+      "sha256": "c3b150ddc240d733720050c678aac92953f1cd64d53f962aaf1bbbe3c0d13f40"
+    },
+    {
+      "id": "preview-056",
+      "file": "previews/056.png",
+      "key": "preview-056.png",
+      "size": 115979,
+      "sha256": "8d2911ac1672e16904629ac97f14a61edfc756065c4d529b0762b63e968ae34c"
+    },
+    {
+      "id": "preview-057",
+      "file": "previews/057.png",
+      "key": "preview-057.png",
+      "size": 125410,
+      "sha256": "c77938d6f686e7f5697c55bf7f8c6f99780d54346457ae12db0bbc8e2facd524"
+    },
+    {
+      "id": "preview-058",
+      "file": "previews/058.png",
+      "key": "preview-058.png",
+      "size": 102971,
+      "sha256": "ad2fb4064ddec295feb735717b6a43c77205b5d42f4aade9d5c6a68216ca0f80"
+    },
+    {
+      "id": "preview-059",
+      "file": "previews/059.png",
+      "key": "preview-059.png",
+      "size": 135192,
+      "sha256": "4b32efccd0d493af229bb3913e5de1b4c8825cbac15f43d454e91ffe7f2a01a3"
+    },
+    {
+      "id": "preview-060",
+      "file": "previews/060.png",
+      "key": "preview-060.png",
+      "size": 103723,
+      "sha256": "e0e95a608b17d33f808c9da7fcf9692cc91dac7a5032a758e0f61168b5d6f0aa"
+    },
+    {
+      "id": "preview-061",
+      "file": "previews/061.png",
+      "key": "preview-061.png",
+      "size": 113121,
+      "sha256": "2f775f45e1371b94255b492235a4795fe07be71b57db7698f3b4ed7aa6e88979"
+    },
+    {
+      "id": "preview-062",
+      "file": "previews/062.png",
+      "key": "preview-062.png",
+      "size": 105049,
+      "sha256": "4f7f2eb8d87740310c9abce1ae0009b7d2b1cc5832ae5fe223679e5e0286ed87"
+    },
+    {
+      "id": "preview-063",
+      "file": "previews/063.png",
+      "key": "preview-063.png",
+      "size": 111282,
+      "sha256": "f8f1e1b146ff682cd2a1f7eb99f26f9e28cdf59b3dc9bab666ef2cfb0d30b352"
+    },
+    {
+      "id": "preview-064",
+      "file": "previews/064.png",
+      "key": "preview-064.png",
+      "size": 94174,
+      "sha256": "0b9a1dfb119e54ece3e068015abb123ce99a2970c030ba17600aca8618dbf1ce"
+    },
+    {
+      "id": "preview-065",
+      "file": "previews/065.png",
+      "key": "preview-065.png",
+      "size": 94264,
+      "sha256": "e2d33f9ce3d5347f794a49faa030c7bbc6794dc332a95f844534369807fe151e"
+    },
+    {
+      "id": "preview-066",
+      "file": "previews/066.png",
+      "key": "preview-066.png",
+      "size": 109442,
+      "sha256": "b9bce5a8a7aebb2d3c5cae89cd990f35fcae3856d7de4cfff4fa07b48aed5ee3"
+    },
+    {
+      "id": "preview-067",
+      "file": "previews/067.png",
+      "key": "preview-067.png",
+      "size": 81160,
+      "sha256": "a1e24958be4fe96a9d3d1c02a33af32864da680e9fe236bb33871b0fcd783c90"
+    },
+    {
+      "id": "preview-068",
+      "file": "previews/068.png",
+      "key": "preview-068.png",
+      "size": 110579,
+      "sha256": "d682d6270548ea3d3566cdd881da04d002577fccf5c3657c9422c91dc3e7ff40"
+    },
+    {
+      "id": "preview-069",
+      "file": "previews/069.png",
+      "key": "preview-069.png",
+      "size": 114577,
+      "sha256": "36e33609b97825320ecbde8428040c275846f5d75f00c560db819fb3d4a466d6"
+    },
+    {
+      "id": "preview-070",
+      "file": "previews/070.png",
+      "key": "preview-070.png",
+      "size": 106578,
+      "sha256": "265e8464dca55dc21909df5831d33db0349e350507bf1400dfa7cae55d0b280e"
+    },
+    {
+      "id": "preview-071",
+      "file": "previews/071.png",
+      "key": "preview-071.png",
+      "size": 122259,
+      "sha256": "145f7e56436dd6f83539641973ab3439833c9728bd37f7f514854fe95799a8da"
+    },
+    {
+      "id": "preview-072",
+      "file": "previews/072.png",
+      "key": "preview-072.png",
+      "size": 116870,
+      "sha256": "3097fc85cd7a277ce40af6aaf4075f15afa4c346c0210723f03c786f79653342"
+    },
+    {
+      "id": "preview-073",
+      "file": "previews/073.png",
+      "key": "preview-073.png",
+      "size": 109254,
+      "sha256": "e896199653db5b795e0d889e6893b0c322cbf11cc9ac682c56593e629ccc69be"
+    },
+    {
+      "id": "preview-074",
+      "file": "previews/074.png",
+      "key": "preview-074.png",
+      "size": 113089,
+      "sha256": "f4de5dff0b57e8304d9e6b389a359209cd37d8f0b8449db50288cfd343b4a5c8"
+    },
+    {
+      "id": "preview-075",
+      "file": "previews/075.png",
+      "key": "preview-075.png",
+      "size": 103925,
+      "sha256": "58de07cd8a528edd5e1d4d9a10ff7902e44a18483fa5b00e296820f539196957"
+    },
+    {
+      "id": "preview-076",
+      "file": "previews/076.png",
+      "key": "preview-076.png",
+      "size": 121846,
+      "sha256": "7df2353526c6880230deada0b743a8c4471a7a180eefd216efd2e985fa9d3b78"
+    },
+    {
+      "id": "preview-077",
+      "file": "previews/077.png",
+      "key": "preview-077.png",
+      "size": 95246,
+      "sha256": "93f1dbe4fcd8037b383bd3efeb1e92ed254865e7408e2bdd7dbf42f0537f6a0d"
+    },
+    {
+      "id": "preview-078",
+      "file": "previews/078.png",
+      "key": "preview-078.png",
+      "size": 89724,
+      "sha256": "cfa76617517e1db3d2b8598bcccfb3db38bfd72b5b798234e867c0aea94ccbf7"
+    },
+    {
+      "id": "preview-079",
+      "file": "previews/079.png",
+      "key": "preview-079.png",
+      "size": 138827,
+      "sha256": "b4bf2faf1c2b9324a6a29725a4c347db2d4626a9bef3901f5fe05616b68b8c0e"
+    },
+    {
+      "id": "preview-080",
+      "file": "previews/080.png",
+      "key": "preview-080.png",
+      "size": 119189,
+      "sha256": "e1f7f205db3d67ce92f82f4b1523edf354761aefd944a26fa07e1458661778a2"
+    },
+    {
+      "id": "preview-081",
+      "file": "previews/081.png",
+      "key": "preview-081.png",
+      "size": 138076,
+      "sha256": "0012bf47dd5ac7aef9e370f56412435c28fe2c8a93ea19cd5260cc8bd3d9838b"
+    },
+    {
+      "id": "preview-082",
+      "file": "previews/082.png",
+      "key": "preview-082.png",
+      "size": 126243,
+      "sha256": "cf284dbe7da64809e8f4ebf03b4a5a607e9ff7e8f19bfbcd90c26e2a97ee2ed9"
+    },
+    {
+      "id": "preview-083",
+      "file": "previews/083.png",
+      "key": "preview-083.png",
+      "size": 105468,
+      "sha256": "54758e9466b88296c0803b44d93f80a09f0d77a2867dfa934e6d4c40a0eb3176"
+    },
+    {
+      "id": "preview-084",
+      "file": "previews/084.png",
+      "key": "preview-084.png",
+      "size": 86684,
+      "sha256": "b348a96f181a69169fba698b25c65bc74e1b743004109693bee674763173fb84"
+    },
+    {
+      "id": "preview-085",
+      "file": "previews/085.png",
+      "key": "preview-085.png",
+      "size": 86999,
+      "sha256": "ffc845a9fb650ffe79b0d9d4327f17b7d5c1ec28a9e99db01a238b21aa1e2b0a"
+    },
+    {
+      "id": "preview-086",
+      "file": "previews/086.png",
+      "key": "preview-086.png",
+      "size": 105348,
+      "sha256": "0bd21093c40739f76ae7199fa78c03c0a943a44056732a8d18647d222d2b45ac"
+    },
+    {
+      "id": "preview-087",
+      "file": "previews/087.png",
+      "key": "preview-087.png",
+      "size": 103982,
+      "sha256": "12a3e2a8404678e3530f2a2a6336a4c8677090315180d9da18bb0cadb5a0c82c"
+    },
+    {
+      "id": "preview-088",
+      "file": "previews/088.png",
+      "key": "preview-088.png",
+      "size": 95616,
+      "sha256": "c13f7099756a0be37a8e911af1af80b91ad03560f73426231dbf5574ea5a0bd9"
+    },
+    {
+      "id": "preview-089",
+      "file": "previews/089.png",
+      "key": "preview-089.png",
+      "size": 156892,
+      "sha256": "289983501d336ac12b2ebfbaafa07f390fa4857fcd6961e44d439ba23b0a407f"
+    },
+    {
+      "id": "preview-090",
+      "file": "previews/090.png",
+      "key": "preview-090.png",
+      "size": 98877,
+      "sha256": "48c8d76a86d8a1d4851b2983d9275d1442a157771f7a4ffa8faf8efb1e54e1d5"
+    },
+    {
+      "id": "preview-091",
+      "file": "previews/091.png",
+      "key": "preview-091.png",
+      "size": 80684,
+      "sha256": "60c2a3245df75f1c0f74d6a78655f3d943cc586162a0642c405c5a67ba999020"
+    },
+    {
+      "id": "preview-092",
+      "file": "previews/092.png",
+      "key": "preview-092.png",
+      "size": 70491,
+      "sha256": "853ed7fb3cc571cb3c62ee50c591f83d5efb05589db9c5c1598d6a3e20280d2a"
+    },
+    {
+      "id": "preview-093",
+      "file": "previews/093.png",
+      "key": "preview-093.png",
+      "size": 103874,
+      "sha256": "e97319556bdfa0eac27f1fe8e66d5380235541cde2338114cb23ce9211a54ef5"
+    },
+    {
+      "id": "preview-094",
+      "file": "previews/094.png",
+      "key": "preview-094.png",
+      "size": 97843,
+      "sha256": "8fbce4ecdee20bbbb3f37d7c1a6250fa1f79b1779ff1dd54ffbf16de5aa43dfb"
+    },
+    {
+      "id": "preview-095",
+      "file": "previews/095.png",
+      "key": "preview-095.png",
+      "size": 94100,
+      "sha256": "3d147627283864d0b5fbd3f80f31ebf19b5826a0adc0e50e66b8918f948a45be"
+    },
+    {
+      "id": "preview-096",
+      "file": "previews/096.png",
+      "key": "preview-096.png",
+      "size": 90377,
+      "sha256": "859d862e4564fcb63830f26df864756adbac02390865b721f4279740ed5d61d1"
+    },
+    {
+      "id": "preview-097",
+      "file": "previews/097.png",
+      "key": "preview-097.png",
+      "size": 95557,
+      "sha256": "26d6763ae85c164b0044aca996a52bc059a80a84e3738dcbffb864373f321281"
+    },
+    {
+      "id": "preview-098",
+      "file": "previews/098.png",
+      "key": "preview-098.png",
+      "size": 77813,
+      "sha256": "080cca3d970662a1ff7962ce1b611c1963ab399cdc4e53ee3d174da5e5094f6f"
+    },
+    {
+      "id": "preview-099",
+      "file": "previews/099.png",
+      "key": "preview-099.png",
+      "size": 78322,
+      "sha256": "0c9744d4af9a1296487712785853bd56e089a300ad7d9f5eba1269d5c03001bf"
+    },
+    {
+      "id": "preview-100",
+      "file": "previews/100.png",
+      "key": "preview-100.png",
+      "size": 76993,
+      "sha256": "e5e4a539543d6a60260a0bbbb2840b5be53a59cb71c8d684721fd7522056a413"
+    }
+  ],
+  "offline_pack": {
+    "key": "ppt-template-resources-1.0.0.zip",
+    "size": 331849298,
+    "sha256": "ccb0e521c9611e59282f43491b4921d653f7a2bffe78ab7791b365ff3b82ad32"
+  }
+}

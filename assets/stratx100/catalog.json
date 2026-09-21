@@ -1,0 +1,2112 @@
+{
+  "schema_version": 1,
+  "source": "User supplied BerryPPT StratX100 advanced decks",
+  "themes": [
+    {
+      "id": "indigo-dawn-murmur",
+      "name": "幽蓝晨语",
+      "file": "decks/BerryPPT©StratX100-进阶版-幽蓝晨语 Indigo Dawn Murmur.pptx",
+      "sha256": "724dcb9a7f3a29af4afb0504eb915c69d9dc7b9b6a3600712357c7ec7257129b",
+      "slides": 208
+    },
+    {
+      "id": "spring-grove-walk",
+      "name": "春林漫步",
+      "file": "decks/BerryPPT©StratX100-进阶版-春林漫步 Spring Grove Walk.pptx",
+      "sha256": "98dbbb6acb38dcfc2497ce196757084b9e8d1d2941d0d4fc4f670d1bc4f445c0",
+      "slides": 208
+    },
+    {
+      "id": "morning-bay-haze",
+      "name": "晨湾绿意",
+      "file": "decks/BerryPPT©StratX100-进阶版-晨湾绿意 Morning Bay Haze.pptx",
+      "sha256": "8e5389c9c4740c3facfdddf53f1e322a5786bf8cbbcf76665ef0b8bb8374feee",
+      "slides": 208
+    },
+    {
+      "id": "soft-ember-dusk",
+      "name": "暮色轻燃",
+      "file": "decks/BerryPPT©StratX100-进阶版-暮色轻燃 Soft Ember Dusk.pptx",
+      "sha256": "4c983b84440a3898ba86e45072996554b7c232b69ec89062e3be3243639e830b",
+      "slides": 208
+    },
+    {
+      "id": "clear-lake-gleam",
+      "name": "澄湖微光",
+      "file": "decks/BerryPPT©StratX100-进阶版-澄湖微光 Clear Lake Gleam.pptx",
+      "sha256": "9de32d1871a4484c799ad563795f6e4f7eebee3b6292ef86802ad9d758d55f5c",
+      "slides": 208
+    },
+    {
+      "id": "green-field-whisper",
+      "name": "翠野轻语",
+      "file": "decks/BerryPPT©StratX100-进阶版-翠野轻语 Green Field Whisper.pptx",
+      "sha256": "743c038bb7cf3ab61d57e16759b40f33f41881e48696627064e6aa1f20d9c739",
+      "slides": 208
+    },
+    {
+      "id": "blue-mist-dawn",
+      "name": "蓝雾晨曦",
+      "file": "decks/BerryPPT©StratX100-进阶版-蓝雾晨曦 Blue Mist Dawn.pptx",
+      "sha256": "d57413d56ad234b1330e995672c041f30bf8c8b385d87ec5db192854b68cb16d",
+      "slides": 208
+    },
+    {
+      "id": "blush-glow-veil",
+      "name": "霞影微尘",
+      "file": "decks/BerryPPT©StratX100-进阶版-霞影微尘 Blush Glow Veil.pptx",
+      "sha256": "4b0014236f68aa9f4b1ff653e169f6026cd7dafb8af1b01c9cf24a06793b9959",
+      "slides": 208
+    },
+    {
+      "id": "silent-night-mist",
+      "name": "静夜晴岚",
+      "file": "decks/BerryPPT©StratX100-进阶版-静夜晴岚 Silent Night Mist.pptx",
+      "sha256": "ba0c4978f9da6f24346bb82337bb64e0c769c253b8984bdbfa989961068eba7e",
+      "slides": 208
+    }
+  ],
+  "templates": [
+    {
+      "id": "001",
+      "title": "全域互联融合促进用户增长",
+      "source_page": 9,
+      "guide_page": 10,
+      "guide": "references/stratx100/001.md",
+      "selection_terms": [
+        "全域互联",
+        "货架电商",
+        "内容电商",
+        "主动搜索",
+        "支付互通"
+      ],
+      "page_task": "用电商三阶段演进解释内容、交易、支付触点如何协作改变购物路径。",
+      "required_evidence": [
+        "实际渠道清单",
+        "用户路径或互通能力记录",
+        "若声称提效须有同口径转化数据。"
+      ],
+      "do_not_use_when": "只做单渠道结果复盘，或尚未确认跨平台互通却要写已打通。",
+      "replacement_guidance": "保留三阶段与主动/被动触达对照；替换平台Logo和实际触点，阶段名称按项目定义，不把行业演进图写成客户已完成历程。",
+      "preview": "assets/stratx100/previews/001.png"
+    },
+    {
+      "id": "002",
+      "title": "全场景布局驱动用户多链路转化",
+      "source_page": 11,
+      "guide_page": 12,
+      "guide": "references/stratx100/002.md",
+      "selection_terms": [
+        "看追搜逛购",
+        "直播场",
+        "搜索场",
+        "推荐场",
+        "商城场"
+      ],
+      "page_task": "把四场域的触点映射到看、追、搜、逛、购的用户行为。",
+      "required_evidence": [
+        "真实内容及页面触点",
+        "场域间跳转方式",
+        "需要验证的各环节行为指标。"
+      ],
+      "do_not_use_when": "无法承接商城成交的线索业务仍直接写购，或把示意链路当已追踪用户路径。",
+      "replacement_guidance": "四场域标题、中央触点和底部动作要联动替换；可将终点改预约等实际行为，勿只改Logo。",
+      "preview": "assets/stratx100/previews/002.png"
+    },
+    {
+      "id": "003",
+      "title": "全链营销闭环与多场景协同增长策略",
+      "source_page": 13,
+      "guide_page": 14,
+      "guide": "references/stratx100/003.md",
+      "selection_terms": [
+        "站内闭环",
+        "站外外溢",
+        "线上线下",
+        "全链营销"
+      ],
+      "page_task": "区分站内内容到转化闭环与站外、线下增长触点，显示协同边界。",
+      "required_evidence": [
+        "各渠道职责、资源和承接入口",
+        "线下活动/支付触点执行记录。"
+      ],
+      "do_not_use_when": "项目仅站内运营，却需要虚构线下、出海或支付数据打通。",
+      "replacement_guidance": "围绕全链核心与全域外圈替换模块；没有的校园、商圈、出海模块删除或标成待规划。",
+      "preview": "assets/stratx100/previews/003.png"
+    },
+    {
+      "id": "004",
+      "title": "AI智能驱动下的全链营销提效路径",
+      "source_page": 15,
+      "guide_page": 16,
+      "guide": "references/stratx100/004.md",
+      "selection_terms": [
+        "AI营销",
+        "自动投放",
+        "数据反馈",
+        "智能推荐"
+      ],
+      "page_task": "按基础数据算法、营销流程、业务应用三层解释AI介入位置。",
+      "required_evidence": [
+        "已用AI工具功能、输入输出和人工环节",
+        "提效对照或明确未执行目标。"
+      ],
+      "do_not_use_when": "只有AI概念，没有工具部署/实际应用，仍声称自动投放效果。",
+      "replacement_guidance": "保持三层体系和识别到反馈的关系；用实际功能替换抽象AI措辞，区分可用能力与本项目已用能力。",
+      "preview": "assets/stratx100/previews/004.png"
+    },
+    {
+      "id": "005",
+      "title": "短视频平台KOL生态与用户画像拆解",
+      "source_page": 17,
+      "guide_page": 18,
+      "guide": "references/stratx100/005.md",
+      "selection_terms": [
+        "达人画像",
+        "粉丝画像",
+        "性别年龄地域",
+        "创作者受众匹配"
+      ],
+      "page_task": "对照KOL与粉丝人口结构，判断内容供给者和目标用户是否匹配。",
+      "required_evidence": [
+        "同平台同周期的达人/粉丝样本范围",
+        "性别年龄城市分布及分母。"
+      ],
+      "do_not_use_when": "仅有达人个人资料，没有受众数据；把TOP样本推成全平台结构。",
+      "replacement_guidance": "同步更新两组性别、年龄、城市图；注明TOP100或实际样本及范围，保持左右可比。",
+      "preview": "assets/stratx100/previews/005.png",
+      "source_alert": "环图旁男女比例是静态文本；修改环图后同步重算比例、年龄/城市数据和结论。"
+    },
+    {
+      "id": "006",
+      "title": "KOL增长趋势与垂类内容赛道优选",
+      "source_page": 19,
+      "guide_page": 20,
+      "guide": "references/stratx100/006.md",
+      "selection_terms": [
+        "涨粉赛道",
+        "TOP500",
+        "平台内容差异",
+        "垂类选择"
+      ],
+      "page_task": "比较两个平台涨粉快达人的垂类构成，提出优先测试的内容赛道。",
+      "required_evidence": [
+        "同窗口涨粉榜及筛选口径",
+        "达人垂类分类、各平台样本量。"
+      ],
+      "do_not_use_when": "只有累计粉丝榜或播放榜，却要推导涨粉潜力。",
+      "replacement_guidance": "分别替换上下两组平台图和结论；原示例两组比例相同不能沿用，明确占比是榜单构成而非增长率。",
+      "preview": "assets/stratx100/previews/006.png"
+    },
+    {
+      "id": "007",
+      "title": "企业蓝V粉丝规模与行业分布分析",
+      "source_page": 21,
+      "guide_page": 22,
+      "guide": "references/stratx100/007.md",
+      "selection_terms": [
+        "企业蓝V",
+        "官方账号",
+        "粉丝量级",
+        "行业分布"
+      ],
+      "page_task": "将高粉官方账号的行业集中度与粉丝规模分布并列，定位账号运营参照。",
+      "required_evidence": [
+        "官方账号认证范围",
+        "行业分类",
+        "粉丝榜样本和量级区间。"
+      ],
+      "do_not_use_when": "把粉丝多当作用户粘性高或销售好，缺少互动与成交证据。",
+      "replacement_guidance": "更新行业柱图、粉丝区间图和文字；原50%与50.8%口径需重算，百万以下/以上不能混用。",
+      "preview": "assets/stratx100/previews/007.png"
+    },
+    {
+      "id": "008",
+      "title": "内容生态增长趋势与用户口碑平台分布",
+      "source_page": 23,
+      "guide_page": 24,
+      "guide": "references/stratx100/008.md",
+      "selection_terms": [
+        "笔记增长",
+        "搜索增长",
+        "UGC",
+        "口碑平台偏好"
+      ],
+      "page_task": "把品类内容供给和搜索需求趋势与跨平台口碑内容偏好放在一起。",
+      "required_evidence": [
+        "发布量、搜索量的可比期",
+        "UGC判定",
+        "跨平台偏好调查题目和分母。"
+      ],
+      "do_not_use_when": "不同来源的比例不可比，或把偏好调查写成平台真实转化。",
+      "replacement_guidance": "替换品类、平台、内容类型及两类同比；保留趋势与偏好两层，修正原文错字并注明多选比例。",
+      "preview": "assets/stratx100/previews/008.png"
+    },
+    {
+      "id": "009",
+      "title": "用户购物行为洞察与平台偏好分布",
+      "source_page": 25,
+      "guide_page": 26,
+      "guide": "references/stratx100/009.md",
+      "selection_terms": [
+        "购物渠道偏好",
+        "线上线下",
+        "平台性别结构"
+      ],
+      "page_task": "比较电商、内容平台与线下场景中的购物选择和用户结构。",
+      "required_evidence": [
+        "渠道购买/使用调查、样本",
+        "各平台性别结构",
+        "市场占比定义。"
+      ],
+      "do_not_use_when": "用渠道访问人数代替购买偏好，或没有跨渠道一致口径。",
+      "replacement_guidance": "三类渠道同一指标呈现；所有重复70/30占位数字须替换，结论中的渠道占比与图表保持一致。",
+      "preview": "assets/stratx100/previews/009.png"
+    },
+    {
+      "id": "010",
+      "title": "多平台整合投放路径与全域曝光策略",
+      "source_page": 27,
+      "guide_page": 28,
+      "guide": "references/stratx100/010.md",
+      "selection_terms": [
+        "整合传播方案",
+        "洞察到行动",
+        "KOLKOC",
+        "曝光目标"
+      ],
+      "page_task": "从营销洞察推导策略、行动、目标和内容支持，串起整场战役。",
+      "required_evidence": [
+        "项目目标和资源约束",
+        "已确认传播动作",
+        "KPI口径、目标依据。"
+      ],
+      "do_not_use_when": "只交结果页却无计划/资源逻辑，或把目标值写成已达成。",
+      "replacement_guidance": "五层结构逐层对应；曝光、引流、GMV按真实任务重命名，未执行明确为计划。",
+      "preview": "assets/stratx100/previews/010.png"
+    },
+    {
+      "id": "011",
+      "title": "年度营销节奏规划与平台热点联动分析",
+      "source_page": 29,
+      "guide_page": 30,
+      "guide": "references/stratx100/011.md",
+      "selection_terms": [
+        "年度营销日历",
+        "长线短线",
+        "热点联动",
+        "活动海报"
+      ],
+      "page_task": "把全年常态运营与促销/社交两类短线主题安排在同一月度时间轴。",
+      "required_evidence": [
+        "确认年份、品牌活动日历、产品节奏、可使用KV。"
+      ],
+      "do_not_use_when": "仅一场活动需要详细流程；未确认的平台日期当作固定事实。",
+      "replacement_guidance": "替换月份事件、主题分组与海报；长线贯穿全年，短线与真实月份对应，优先保持时间轴密度。",
+      "preview": "assets/stratx100/previews/011.png"
+    },
+    {
+      "id": "012",
+      "title": "品牌内容营销周期节奏拆解与传播策略分析",
+      "source_page": 31,
+      "guide_page": 32,
+      "guide": "references/stratx100/012.md",
+      "selection_terms": [
+        "社媒营销演进",
+        "传播时代",
+        "种草时代",
+        "整合营销"
+      ],
+      "page_task": "展示品牌传播从单向曝光到产品种草再到搜索/互动/投放协同的升级。",
+      "required_evidence": [
+        "各阶段实际定位、触点能力及客户升级背景",
+        "若复盘须阶段执行记录。"
+      ],
+      "do_not_use_when": "需要预热-爆发-沉淀排期；该解读页与生产页的结构描述不一致。",
+      "replacement_guidance": "以生产页1.0/2.0/3.0为准替换阶段和代表形式；不要按解读页误改成活动三期而仍声称原版复用。",
+      "preview": "assets/stratx100/previews/012.png"
+    },
+    {
+      "id": "013",
+      "title": "营销节奏趋势拆解与用户增长洞察应用",
+      "source_page": 33,
+      "guide_page": 34,
+      "guide": "references/stratx100/013.md",
+      "selection_terms": [
+        "全年活跃趋势",
+        "节点流量",
+        "用户增长",
+        "合作成效"
+      ],
+      "page_task": "把年度流量高峰、节点前后变化和增长人群并列，寻找营销发力时点。",
+      "required_evidence": [
+        "年度时间序列、节点窗口",
+        "人群同比及合作指标可比口径。"
+      ],
+      "do_not_use_when": "只有单月总量，或将活动同期增长直接归因为合作。",
+      "replacement_guidance": "更新年度/节点曲线和各人群增幅；每个增长指标注明对象和比较期，删掉无依据ROI提升。",
+      "preview": "assets/stratx100/previews/013.png",
+      "source_alert": "源chart24日期缓存首项45292，而内嵌Excel A2为45658，相差366天；即使只改Y也需先根据可靠来源解决日期冲突。"
+    },
+    {
+      "id": "014",
+      "title": "多层次账号矩阵策略与平台联动内容引导模型",
+      "source_page": 35,
+      "guide_page": 36,
+      "guide": "references/stratx100/014.md",
+      "selection_terms": [
+        "账号角色矩阵",
+        "官方KOSUGC",
+        "内容平台联动"
+      ],
+      "page_task": "解释多角色内容怎样覆盖用户顾虑，并通过平台扶持与投放放大。",
+      "required_evidence": [
+        "账号角色清单、实际内容样本、分发动作",
+        "结果对照和NPS口径。"
+      ],
+      "do_not_use_when": "没有员工/UGC运营却照填四层，或CTR能证实但获客/NPS不能证实。",
+      "replacement_guidance": "联动替换金字塔角色、手机内容与右侧三模块；结果栏用同项目已核实指标，避免保留示例降本82%。",
+      "preview": "assets/stratx100/previews/014.png"
+    },
+    {
+      "id": "015",
+      "title": "线索精细化培育链路与SOP管理全流程",
+      "source_page": 37,
+      "guide_page": 38,
+      "guide": "references/stratx100/015.md",
+      "selection_terms": [
+        "线索SOP",
+        "CRM",
+        "分派培育",
+        "失败回访"
+      ],
+      "page_task": "按导入、处理、培育、转化呈现线索分级流转及后台管理支持。",
+      "required_evidence": [
+        "线索来源、负责人、分级规则、跟进记录、失败回访和成交定义。"
+      ],
+      "do_not_use_when": "只有前端点击数据，要宣称完整销售闭环。",
+      "replacement_guidance": "流程节点和分支按实际团队改；信息系统功能须确有配置，首响/周期/成交指标不混淆。",
+      "preview": "assets/stratx100/previews/015.png"
+    },
+    {
+      "id": "016",
+      "title": "消费者资产漏斗结构与人群画像识别",
+      "source_page": 39,
+      "guide_page": 40,
+      "guide": "references/stratx100/016.md",
+      "selection_terms": [
+        "消费者资产",
+        "AIPL",
+        "潜客兴趣购买",
+        "人群DNA"
+      ],
+      "page_task": "用漏斗规模和画像一起定位主力人群及资产结构缺口。",
+      "required_evidence": [
+        "人群阶段定义、去重规则、资产量和画像分母、统计时间。"
+      ],
+      "do_not_use_when": "不同阶段重叠/累计数据被直接相加，或兴趣人群被写成购买人群。",
+      "replacement_guidance": "同步替换漏斗、总量、DNA和画像图；PL合并含义须解释，原总量与各层示例不应直接套算。",
+      "preview": "assets/stratx100/previews/016.png"
+    },
+    {
+      "id": "017",
+      "title": "直播加粉路径拆解与用户增长阶段策略",
+      "source_page": 41,
+      "guide_page": 42,
+      "guide": "references/stratx100/017.md",
+      "selection_terms": [
+        "直播加粉",
+        "ACU",
+        "福利钩子",
+        "主播话术"
+      ],
+      "page_task": "把直播触点、福利、话术与不同直播成长阶段的加粉表现对应。",
+      "required_evidence": [
+        "直播周期、ACU定义、加粉数与占比",
+        "真实可用互动组件。"
+      ],
+      "do_not_use_when": "把原ACU分段当通用标准，或用活动期与成熟期重叠区间做严格分类。",
+      "replacement_guidance": "根据真实分段改冷启/成长/成熟/活动及数值；福利截图换成实际平台能力，区分目标与实绩。",
+      "preview": "assets/stratx100/previews/017.png"
+    },
+    {
+      "id": "018",
+      "title": "社区裂变运营路径与精细化用户成长策略",
+      "source_page": 43,
+      "guide_page": 44,
+      "guide": "references/stratx100/018.md",
+      "selection_terms": [
+        "社区裂变",
+        "KOC成长",
+        "体验参与反馈",
+        "老带新"
+      ],
+      "page_task": "呈现活动体验、社群归属和KOC成长如何共同推动老带新。",
+      "required_evidence": [
+        "社群运营规则、真实用户贡献、成长门槛、裂变及活跃记录。"
+      ],
+      "do_not_use_when": "仅粉丝增长无社区行为，或把官方员工伪装成用户口碑。",
+      "replacement_guidance": "保持活动-社群-成长三体系；替换每级用户定义、激励和UGC，核心用户影响力须有证据。",
+      "preview": "assets/stratx100/previews/018.png"
+    },
+    {
+      "id": "019",
+      "title": "短视频内容节奏优化与互动转化策略",
+      "source_page": 45,
+      "guide_page": 46,
+      "guide": "references/stratx100/019.md",
+      "selection_terms": [
+        "视频节奏",
+        "留存曲线",
+        "关键秒点",
+        "脚本结构"
+      ],
+      "page_task": "将观看行为曲线与开头吸引、价值传递、品牌记忆节点对应。",
+      "required_evidence": [
+        "逐秒留存/互动/进店数据或明确脚本假设",
+        "真实视频与时间码。"
+      ],
+      "do_not_use_when": "无时间序列却宣称3秒9秒等为科学固定规律。",
+      "replacement_guidance": "以真实时长统一曲线、分段和四节点；原生产/解读含3/9/11/16不同节点，替换时先消歧。",
+      "preview": "assets/stratx100/previews/019.png"
+    },
+    {
+      "id": "020",
+      "title": "KOL投放梯度策略与人群渗透组合路径",
+      "source_page": 47,
+      "guide_page": 48,
+      "guide": "references/stratx100/020.md",
+      "selection_terms": [
+        "达人金字塔",
+        "垂类跨圈",
+        "Tier组合",
+        "品牌成长阶段"
+      ],
+      "page_task": "并列两种达人组合方法：粉丝量级分工与核心/泛/跨圈垂类配比。",
+      "required_evidence": [
+        "达人库层级、受众匹配及TGI",
+        "品牌阶段、预算或数量分配依据。"
+      ],
+      "do_not_use_when": "把粉丝量级等同垂类，不区分两条资源配置轴。",
+      "replacement_guidance": "左右模型保留各自维度；重算阶段占比，明确按预算/人数/内容量，筛选建议落到可核查达人条件。",
+      "preview": "assets/stratx100/previews/020.png"
+    },
+    {
+      "id": "021",
+      "title": "大促节奏编排策略与品牌营销关键节点管理",
+      "source_page": 49,
+      "guide_page": 50,
+      "guide": "references/stratx100/021.md",
+      "selection_terms": [
+        "大促排期",
+        "多品牌对照",
+        "预售返场",
+        "节点协同"
+      ],
+      "page_task": "对照多品牌/产品线的大促阶段与资源释放日期。",
+      "required_evidence": [
+        "最新活动日期、各项目计划、直播/搜索/达人排期。"
+      ],
+      "do_not_use_when": "只需全年日历，或把上一年双11日期用作当前平台规则。",
+      "replacement_guidance": "替换总轴日期和每行区间；六行Logo对应实际品牌/品线，阶段边界和跨行对齐须检查。",
+      "preview": "assets/stratx100/previews/021.png"
+    },
+    {
+      "id": "022",
+      "title": "人群行为节奏洞察与精细化投放策略制定",
+      "source_page": 51,
+      "guide_page": 52,
+      "guide": "references/stratx100/022.md",
+      "selection_terms": [
+        "行为节奏",
+        "访问购买错峰",
+        "品类人群趋势",
+        "投放窗口"
+      ],
+      "page_task": "用类目访问曲线和人群购买曲线的时间差推导投放窗口。",
+      "required_evidence": [
+        "同时间粒度的访问/购买数据",
+        "平台品类及人群定义",
+        "预算约束。"
+      ],
+      "do_not_use_when": "没有连续时间数据却绘制趋势，或只凭相关性承诺ROI。",
+      "replacement_guidance": "四个决策维度与两张趋势图联动；明确观察窗口、目标人群和预算结论的证据，不补造预测。",
+      "preview": "assets/stratx100/previews/022.png"
+    },
+    {
+      "id": "023",
+      "title": "跨平台种草评估与人群触达策略设计",
+      "source_page": 53,
+      "guide_page": 54,
+      "guide": "references/stratx100/023.md",
+      "selection_terms": [
+        "种收评估",
+        "跨平台归因",
+        "TA分层",
+        "生意平台"
+      ],
+      "page_task": "分开种草平台触达与生意平台交易，用分层人群和回流验证连接。",
+      "required_evidence": [
+        "两端人群口径、匹配方式、行为和交易数据",
+        "归因窗口及限制。"
+      ],
+      "do_not_use_when": "不能取得站外交易证据却写种收一体ROI。",
+      "replacement_guidance": "替换两平台与TA1-3定义；没有身份/转化联接时标为待验证链路，站内互动不能填站外成交。",
+      "preview": "assets/stratx100/previews/023.png"
+    },
+    {
+      "id": "024",
+      "title": "品牌竞争表现分析与用户认知优化方向",
+      "source_page": 55,
+      "guide_page": 56,
+      "guide": "references/stratx100/024.md",
+      "selection_terms": [
+        "竞品差距",
+        "声量销量心智",
+        "搜索份额",
+        "用户评价"
+      ],
+      "page_task": "按声量、销售和认知三个维度给出数据、问题、优化动作。",
+      "required_evidence": [
+        "同周期竞品搜索/GMV",
+        "市场分母",
+        "正负评价原文及采样范围。"
+      ],
+      "do_not_use_when": "只掌握本品牌数据仍画竞品排名，或情绪词无原始评论支撑。",
+      "replacement_guidance": "三栏独立替换并逐栏校验表格与文字；原多组销量/搜索数互相冲突，不能只改品牌名。",
+      "preview": "assets/stratx100/previews/024.png"
+    },
+    {
+      "id": "025",
+      "title": "人群结构分布与消费兴趣趋势洞察",
+      "source_page": 57,
+      "guide_page": 58,
+      "guide": "references/stratx100/025.md",
+      "selection_terms": [
+        "城市年龄画像",
+        "兴趣增速",
+        "下沉市场",
+        "消费趋势"
+      ],
+      "page_task": "把人群城市/年龄结构与兴趣增量并列，选择内容与渠道方向。",
+      "required_evidence": [
+        "画像分布及分母",
+        "兴趣行为和同比基期",
+        "样本范围。"
+      ],
+      "do_not_use_when": "用静态低线城市占比推导正在下沉，缺少可比期。",
+      "replacement_guidance": "替换饼图、年龄柱图、兴趣增幅及结论；年龄区间须完整互斥并校验占比合计。",
+      "preview": "assets/stratx100/previews/025.png"
+    },
+    {
+      "id": "026",
+      "title": "达人分层合作策略与资源投放规划",
+      "source_page": 59,
+      "guide_page": 60,
+      "guide": "references/stratx100/026.md",
+      "selection_terms": [
+        "达人预算分层",
+        "KOC腰部头部",
+        "合作成本",
+        "内容分工"
+      ],
+      "page_task": "把三层达人规模、成本、预算与具体内容类型对应到合作计划。",
+      "required_evidence": [
+        "实际报价、达人筛选依据、预算总盘、合作数量/内容量。"
+      ],
+      "do_not_use_when": "没有预算授权却展示客户绝对金额，或套用示例达人价格。",
+      "replacement_guidance": "按同一预算分母重算三层；原60/25/10合计95%需解释剩余或修正，行业内容占比分层校验。",
+      "preview": "assets/stratx100/previews/026.png"
+    },
+    {
+      "id": "027",
+      "title": "预算资源分配与全周期投放计划",
+      "source_page": 61,
+      "guide_page": 62,
+      "guide": "references/stratx100/027.md",
+      "selection_terms": [
+        "年度预算",
+        "季度拆分",
+        "种草转化配比",
+        "达人资源"
+      ],
+      "page_task": "联动全年资源、季度任务、达人梯队和目标，说明资金如何支持节奏。",
+      "required_evidence": [
+        "已批准预算/可披露范围",
+        "季度任务",
+        "F/S定义和目标依据。"
+      ],
+      "do_not_use_when": "仅有投后结果却把预算规划当实际消耗，或金额不可披露。",
+      "replacement_guidance": "可用预算指数/占比替代金额；四季及达人比例分别闭合，F/S含义按项目确认，不沿用错误平台解释。",
+      "preview": "assets/stratx100/previews/027.png"
+    },
+    {
+      "id": "028",
+      "title": "季度执行排期与多元推广路径策略",
+      "source_page": 63,
+      "guide_page": 64,
+      "guide": "references/stratx100/028.md",
+      "selection_terms": [
+        "季度执行表",
+        "月度资源",
+        "KFS配比",
+        "优化指标"
+      ],
+      "page_task": "将季度目标拆到各月动作、资源和评估阈值。",
+      "required_evidence": [
+        "月度预算与渠道计划、KPI定义、计算口径和批准目标。"
+      ],
+      "do_not_use_when": "未确认成本阈值却当保证，或需要沿用原表不一致数值。",
+      "replacement_guidance": "重算月度与TTL、预算及曝光互动合计；原K:F:S出现四个数5:4:4:2，必须重新定义后填入。",
+      "preview": "assets/stratx100/previews/028.png"
+    },
+    {
+      "id": "029",
+      "title": "短剧内容营销策略与多维价值布局",
+      "source_page": 65,
+      "guide_page": 66,
+      "guide": "references/stratx100/029.md",
+      "selection_terms": [
+        "短剧营销",
+        "边看边买",
+        "题材TA",
+        "内容价值"
+      ],
+      "page_task": "用互动/搜索/购买路径连接短剧的品牌、产品、生意、人群价值。",
+      "required_evidence": [
+        "实际短剧触点、题材受众、市场报告来源和项目效果。"
+      ],
+      "do_not_use_when": "没有短剧资源或交易挂载，只能提供泛内容策略。",
+      "replacement_guidance": "右侧市场数据注明年份/来源，价值模块写可证事实或计划；热门题材和受众不能照搬2024示例。",
+      "preview": "assets/stratx100/previews/029.png"
+    },
+    {
+      "id": "030",
+      "title": "趋势话题洞察与社交内容策划路径",
+      "source_page": 67,
+      "guide_page": 68,
+      "guide": "references/stratx100/030.md",
+      "selection_terms": [
+        "热点洞察",
+        "身份认同",
+        "创意共鸣",
+        "互动扩散"
+      ],
+      "page_task": "从人群身份和兴趣趋势提炼创意，再解释用户为何参与传播。",
+      "required_evidence": [
+        "目标人群语料、热点时效、产品关联、互动机制/内容样例。"
+      ],
+      "do_not_use_when": "品牌与热点无关联，或把MBTI等标签当可靠人口诊断。",
+      "replacement_guidance": "六类标签按真实语料改；中央给具体创意样例，右侧给真实参与路径，破圈/ROI需单独证据。",
+      "preview": "assets/stratx100/previews/030.png"
+    },
+    {
+      "id": "031",
+      "title": "品牌增长路径与人群投放模型",
+      "source_page": 69,
+      "guide_page": 70,
+      "guide": "references/stratx100/031.md",
+      "selection_terms": [
+        "增长模型",
+        "产品生命周期",
+        "公私域",
+        "人群内容渠道"
+      ],
+      "page_task": "用产品阶段与人群层级协调内容、渠道、投放及数据管理。",
+      "required_evidence": [
+        "产品生命周期判断、阶段任务、渠道能力及人群定义。"
+      ],
+      "do_not_use_when": "需要平台标准KFS解释；本页K/F/S为自定义英文，与常用平台术语不同。",
+      "replacement_guidance": "先确认4C3P和KFS是否保留或改成项目自定义模型；同步替换生命周期、人群和渠道，不宣称官方模型。",
+      "preview": "assets/stratx100/previews/031.png"
+    },
+    {
+      "id": "032",
+      "title": "用户决策链路优化与搜索驱动种草策略",
+      "source_page": 71,
+      "guide_page": 72,
+      "guide": "references/stratx100/032.md",
+      "selection_terms": [
+        "内容回搜",
+        "搜索驱动种草",
+        "产品人群匹配"
+      ],
+      "page_task": "围绕产品匹配、目标用户、搜索承接三支点解释从兴趣到决策。",
+      "required_evidence": [
+        "内容样本、搜索行为、关键词承接和结果比较期。"
+      ],
+      "do_not_use_when": "没有回搜或转化数据却照填搜索率/ROI倍增。",
+      "replacement_guidance": "替换两手机真实入口及三角策略；右侧只填已核实指标，明确搜索增长不自动等于种草成交。",
+      "preview": "assets/stratx100/previews/032.png"
+    },
+    {
+      "id": "033",
+      "title": "精细化用户路径引导与线下转化闭环策略",
+      "source_page": 73,
+      "guide_page": 74,
+      "guide": "references/stratx100/033.md",
+      "selection_terms": [
+        "新老客分流",
+        "O2O",
+        "首单复购",
+        "品牌矩阵"
+      ],
+      "page_task": "分别设计新客首购和老客复购路径，再连接内容矩阵与线下承接。",
+      "required_evidence": [
+        "客户分层、门店/商城承接机制、首购与复购记录。"
+      ],
+      "do_not_use_when": "无会员识别或到店/订单数据，仍声称线上线下闭环。",
+      "replacement_guidance": "两条路径保持目标差异；替换品牌账号/达人/员工触点，数据按渠道/周期拆清，不合并重复营收。",
+      "preview": "assets/stratx100/previews/033.png"
+    },
+    {
+      "id": "034",
+      "title": "分层用户识别与定制化内容触达策略",
+      "source_page": 75,
+      "guide_page": 76,
+      "guide": "references/stratx100/034.md",
+      "selection_terms": [
+        "人群拆解",
+        "差异内容",
+        "核心高潜泛",
+        "趋势到素材"
+      ],
+      "page_task": "由市场需求变化推导人群层级，再展示各兴趣群体的不同内容。",
+      "required_evidence": [
+        "市场趋势来源、人群标签/行为规则、实际内容样例、触达结果。"
+      ],
+      "do_not_use_when": "只有人口标签和通用素材，没有人群需求差异。",
+      "replacement_guidance": "三栏一一对应；内容缩略图换为具体任务素材，CPA变化与人群渗透须各自证据。",
+      "preview": "assets/stratx100/previews/034.png"
+    },
+    {
+      "id": "035",
+      "title": "私域社群运营全路径设计与高效转化策略",
+      "source_page": 77,
+      "guide_page": 78,
+      "guide": "references/stratx100/035.md",
+      "selection_terms": [
+        "社群拉新促活转化",
+        "笔记直播导流",
+        "群内购",
+        "361"
+      ],
+      "page_task": "展示入口引流、真实成员互动和群内活动成交的三段社群运营。",
+      "required_evidence": [
+        "真实入群入口、成员构成、活动规则、订单或转化数据。"
+      ],
+      "do_not_use_when": "把361比例当通用规律，或以虚构成员/评价营造假口碑。",
+      "replacement_guidance": "替换361为实际用户分层和比例；用透明的运营角色说明互动，真实截图替代入口示意，写清购买路径。",
+      "preview": "assets/stratx100/previews/035.png"
+    },
+    {
+      "id": "036",
+      "title": "电商内容转化策略与全链路场景融合布局",
+      "source_page": 79,
+      "guide_page": 80,
+      "guide": "references/stratx100/036.md",
+      "selection_terms": [
+        "内容货架双链",
+        "兴趣激发",
+        "交易承接",
+        "LTV"
+      ],
+      "page_task": "用内容平台激发兴趣与货架平台稳定承接两链路解释协同经营。",
+      "required_evidence": [
+        "两端触点、跳转/回流机制、商品与价格策略",
+        "复购/LTV计算窗口。"
+      ],
+      "do_not_use_when": "仅曝光数据就承诺LTV提升，或平台间不具备实际链接。",
+      "replacement_guidance": "保留内容端与交易端分工；Logo、短视频/直播/商城动作一起改，反馈箭头说明真实数据回流。",
+      "preview": "assets/stratx100/previews/036.png"
+    },
+    {
+      "id": "037",
+      "title": "用户搜索转化路径优化与兴趣流量引导策略",
+      "source_page": 81,
+      "guide_page": 82,
+      "guide": "references/stratx100/037.md",
+      "selection_terms": [
+        "浏览到搜索",
+        "探索型决策型",
+        "比价",
+        "搜索表单"
+      ],
+      "page_task": "区分兴趣探索与明确决策行为，说明内容预埋和搜索承接各做什么。",
+      "required_evidence": [
+        "真实搜索语料、内容/信息流入口、落地页/表单、阶段占比定义。"
+      ],
+      "do_not_use_when": "把所有用户当单向线性流转，或缺乏来源仍用50/40比例。",
+      "replacement_guidance": "改写原浏览/搜索重复描述；占比说明分母，终点按购买/留资实际业务替换。",
+      "preview": "assets/stratx100/previews/037.png"
+    },
+    {
+      "id": "038",
+      "title": "品牌年轻化趋势下的圈层人群种草策略",
+      "source_page": 83,
+      "guide_page": 84,
+      "guide": "references/stratx100/038.md",
+      "selection_terms": [
+        "年轻化",
+        "圈层种草",
+        "功能情绪诉求",
+        "差异沟通"
+      ],
+      "page_task": "将五类圈层需求映射到高端感、实用性、专业性等沟通重点。",
+      "required_evidence": [
+        "圈层调研、实际使用场景、内容样例",
+        "年龄/搜索/销量变化证据。"
+      ],
+      "do_not_use_when": "用内容风格年轻代替真实年轻用户增长，或圈层只是主观标签。",
+      "replacement_guidance": "替换具体圈层与买点，底部排名写明平台品类周期；内容差异必须具体到表达任务。",
+      "preview": "assets/stratx100/previews/038.png"
+    },
+    {
+      "id": "039",
+      "title": "品牌门店扩张趋势与品类消费价格带分布",
+      "source_page": 85,
+      "guide_page": 86,
+      "guide": "references/stratx100/039.md",
+      "selection_terms": [
+        "门店竞争",
+        "城市覆盖",
+        "价格带",
+        "区域市场"
+      ],
+      "page_task": "用消费价格与城市覆盖坐标加规模分布，定位品牌扩张及价格机会。",
+      "required_evidence": [
+        "门店/城市口径、截点、人均客单、同品类竞争样本。"
+      ],
+      "do_not_use_when": "把覆盖城市数当门店数，或只凭静态图称扩张增长。",
+      "replacement_guidance": "坐标轴单位和品牌点同步更新；门店规模分布与城市TOP5同口径，突出自有品牌但不改排名依据。",
+      "preview": "assets/stratx100/previews/039.png",
+      "source_alert": "气泡数据与页上文字可能分离；修改X/Y/大小后复核标签位置、含义和坐标单位。"
+    },
+    {
+      "id": "040",
+      "title": "达人种草全链路打法与用户打卡带动转化路径",
+      "source_page": 87,
+      "guide_page": 88,
+      "guide": "references/stratx100/040.md",
+      "selection_terms": [
+        "周期测评",
+        "28天打卡",
+        "用户疑虑",
+        "口碑转化"
+      ],
+      "page_task": "沿使用周期逐周回答效果和体验疑问，并配置内容转化入口。",
+      "required_evidence": [
+        "真实使用日志、素材授权、适用体验周期、可支持的功效证据及转化。"
+      ],
+      "do_not_use_when": "用主观晒单证明医学功效/无副作用，或把固定28天作为所有产品标准。",
+      "replacement_guidance": "按产品实际周期改周数和节点；保留真实反馈包括限制，功效措辞需对应证据，购买终点独立验证。",
+      "preview": "assets/stratx100/previews/040.png"
+    },
+    {
+      "id": "041",
+      "title": "品牌内容经营现状与转化表现对比分析",
+      "source_page": 89,
+      "guide_page": 90,
+      "guide": "references/stratx100/041.md",
+      "selection_terms": [
+        "内容经营诊断",
+        "自然商业流量",
+        "心智承接",
+        "竞品柱图"
+      ],
+      "page_task": "把搜索心智、内容资产、商笔和热度对比转成承接短板诊断。",
+      "required_evidence": [
+        "同周期竞品指标、自然/付费流量定义、商笔标识和归因数据。"
+      ],
+      "do_not_use_when": "只有内容量却断言带流效率低，或搜索指数替代品牌认知调查。",
+      "replacement_guidance": "四组图统一比较对象；诊断逐项对应证据，底部动作针对真实断点，不预设品牌强心智弱转化。",
+      "preview": "assets/stratx100/previews/041.png"
+    },
+    {
+      "id": "042",
+      "title": "城市探索活动趋势解读与多元场景融合策略",
+      "source_page": 91,
+      "guide_page": 92,
+      "guide": "references/stratx100/042.md",
+      "selection_terms": [
+        "城市探索",
+        "文化科技活动",
+        "玩法系列",
+        "覆盖热度"
+      ],
+      "page_task": "概览城市生活方式项目的理念、覆盖与三类玩法系列。",
+      "required_evidence": [
+        "项目上线时间、真实活动照片、城市覆盖/里程/话题数据定义。"
+      ],
+      "do_not_use_when": "没有实际活动却写累计规模，或仅一次快闪称全年项目。",
+      "replacement_guidance": "替换活动理念、三系列与主题标签；量化区只放可追溯数据，示例万公里等单位需重校。",
+      "preview": "assets/stratx100/previews/042.png"
+    },
+    {
+      "id": "043",
+      "title": "品牌内容矩阵搭建与主题传播策略优化",
+      "source_page": 93,
+      "guide_page": 94,
+      "guide": "references/stratx100/043.md",
+      "selection_terms": [
+        "内容主题统一",
+        "爆款常规种草",
+        "品牌新品文化",
+        "矩阵诊断"
+      ],
+      "page_task": "把品牌、新品、文化主题与日常测评/体验等内容统一为矩阵。",
+      "required_evidence": [
+        "内容盘点样本、品牌主张、各主题目的、发布及表现。"
+      ],
+      "do_not_use_when": "未读已有内容就判断主题分散，或单品推广是明确目标却强加品牌统一。",
+      "replacement_guidance": "左侧每个主题写明目标-中心-切入；右侧不足与优化来自盘点，常规内容样例替换为客户事实。",
+      "preview": "assets/stratx100/previews/043.png"
+    },
+    {
+      "id": "044",
+      "title": "整合传播节奏规划与沉浸式活动运营策略",
+      "source_page": 95,
+      "guide_page": 96,
+      "guide": "references/stratx100/044.md",
+      "selection_terms": [
+        "活动四阶段",
+        "预热上线爆发长尾",
+        "话题传播",
+        "沉浸活动"
+      ],
+      "page_task": "按四阶段安排话题与传播机制，联动短视频直播、KOL社群和UGC。",
+      "required_evidence": [
+        "确认日期、各阶段动作、活动资源、真实/计划话题及KPI。"
+      ],
+      "do_not_use_when": "只做年度节奏或纯数据复盘，需要更细周期却误用。",
+      "replacement_guidance": "同时改日期、阶段标题、话题标签和动作；区分已执行/未执行，各阶段不能沿用2025日期。",
+      "preview": "assets/stratx100/previews/044.png"
+    },
+    {
+      "id": "045",
+      "title": "用户搜索趋势洞察与产品卖点热度分析",
+      "source_page": 97,
+      "guide_page": 98,
+      "guide": "references/stratx100/045.md",
+      "selection_terms": [
+        "热搜词榜",
+        "搜索同比",
+        "需求提炼",
+        "用户语言"
+      ],
+      "page_task": "由Top20搜索词及高增关键词提炼用户诉求和内容方向。",
+      "required_evidence": [
+        "原始搜索词、排名规则、搜索量/同比基期、支持诉求的内容语料。"
+      ],
+      "do_not_use_when": "仅主观关键词清单，或增长来自极低基数却称主流需求。",
+      "replacement_guidance": "替换榜单、四个增长标签、需求内容卡；重复便捷词需合并或解释，关键词不要改成品牌内部术语。",
+      "preview": "assets/stratx100/previews/045.png"
+    },
+    {
+      "id": "046",
+      "title": "线下场景共创玩法与O2O品牌互动策略",
+      "source_page": 99,
+      "guide_page": 100,
+      "guide": "references/stratx100/046.md",
+      "selection_terms": [
+        "线下快闪",
+        "地图打卡",
+        "O2O互动",
+        "官号KOLUGC"
+      ],
+      "page_task": "从场景机会到事件共创，再用门店地图与传播矩阵形成互动闭环。",
+      "required_evidence": [
+        "活动场地、任务机制、门店联动、渠道职责和现场/UGC材料。"
+      ],
+      "do_not_use_when": "线下场地/活动未确认却写已落地，或无到店追踪声称销售效果。",
+      "replacement_guidance": "地图、快闪、官号达人UGC及前中后节奏一并替换；真实路径写清从哪里到哪里。",
+      "preview": "assets/stratx100/previews/046.png"
+    },
+    {
+      "id": "047",
+      "title": "影响力转化策略与多路径内容传播机制",
+      "source_page": 101,
+      "guide_page": 102,
+      "guide": "references/stratx100/047.md",
+      "selection_terms": [
+        "影响力扩散",
+        "核心扩散泛人群",
+        "话题种草交易"
+      ],
+      "page_task": "把三层传播人群和曝光-种草-交易任务与互动形式对应。",
+      "required_evidence": [
+        "种子传播者、参与者行为、二次传播记录及承接入口。"
+      ],
+      "do_not_use_when": "只用总曝光证明传播裂变或交易转化。",
+      "replacement_guidance": "三栏各保留不同维度，避免全部写KOL；用具体内容与行为连接人群层级，结果按层验证。",
+      "preview": "assets/stratx100/previews/047.png"
+    },
+    {
+      "id": "048",
+      "title": "直播种草路径与用户转化机制全链路解析",
+      "source_page": 103,
+      "guide_page": 104,
+      "guide": "references/stratx100/048.md",
+      "selection_terms": [
+        "直播引流矩阵",
+        "H5落地",
+        "信息流社群",
+        "转化扩散"
+      ],
+      "page_task": "展示直播矩阵通过落地页、广告、社群获取用户并引导成交与再传播。",
+      "required_evidence": [
+        "直播间和页面、预约/导流动作、成交或到店承接、分享机制。"
+      ],
+      "do_not_use_when": "无H5/多直播间却硬套工具链，或复购数据缺失仍承诺复购增长。",
+      "replacement_guidance": "按实际直播平台改承接载体；替换矩阵、流量入口和右侧终点，明确互动与购买各自指标。",
+      "preview": "assets/stratx100/previews/048.png"
+    },
+    {
+      "id": "049",
+      "title": "品牌IP联动策略与用户共创互动成效分析",
+      "source_page": 105,
+      "guide_page": 106,
+      "guide": "references/stratx100/049.md",
+      "selection_terms": [
+        "IP联名",
+        "用户契合",
+        "粉丝共创",
+        "活动互动对比"
+      ],
+      "page_task": "以受众契合、共创内容和沉浸体验解释联名互动效果。",
+      "required_evidence": [
+        "合作事实及授权素材、两方画像、UGC、活动与基准内容同口径数据。"
+      ],
+      "do_not_use_when": "无合作授权却做官宣，或把普通笔记差异全部归因为IP。",
+      "replacement_guidance": "替换双方身份/图片及30天曲线；倍数、增长率、平均值分母一致，主张限于可证互动或转化。",
+      "preview": "assets/stratx100/previews/049.png"
+    },
+    {
+      "id": "050",
+      "title": "一站式整合营销流程与执行路径展示",
+      "source_page": 107,
+      "guide_page": 108,
+      "guide": "references/stratx100/050.md",
+      "selection_terms": [
+        "整合营销流程",
+        "需求数据策略内容",
+        "媒介采买",
+        "效果评估"
+      ],
+      "page_task": "用八步流程说明品牌需求如何变成内容、资源执行和评估闭环。",
+      "required_evidence": [
+        "真实项目流程、角色职责、交付物、执行周期与评估定义。"
+      ],
+      "do_not_use_when": "需要具体效果证明，却只用通用流程充当成功案例。",
+      "replacement_guidance": "保留需求到评估顺序，步骤增删按实际协作；采买和投放仅作为方案内容，不构成操作授权。",
+      "preview": "assets/stratx100/previews/050.png"
+    },
+    {
+      "id": "051",
+      "title": "平台投放匹配策略与用户画像兴趣偏好的交叉分析",
+      "source_page": 109,
+      "guide_page": 110,
+      "guide": "references/stratx100/051.md",
+      "selection_terms": [
+        "TGI矩阵",
+        "平台匹配",
+        "兴趣年龄交叉",
+        "媒体选择"
+      ],
+      "page_task": "用兴趣与年龄两张平台TGI矩阵选择优先触达渠道和内容。",
+      "required_evidence": [
+        "TGI分子分母与基准人群",
+        "平台同周期样本",
+        "兴趣及年龄分类。"
+      ],
+      "do_not_use_when": "把TGI当占比，或按年龄直接推定收入/家庭身份。",
+      "replacement_guidance": "所有232占位值替换；修正重复46岁以上行，统一色阶基准，画像结论须数据支持。",
+      "preview": "assets/stratx100/previews/051.png"
+    },
+    {
+      "id": "052",
+      "title": "项目投后复盘体系与营销策略迭代流程",
+      "source_page": 111,
+      "guide_page": 112,
+      "guide": "references/stratx100/052.md",
+      "selection_terms": [
+        "投后复盘",
+        "数据归档",
+        "案例拆解",
+        "策略迭代"
+      ],
+      "page_task": "把项目收尾的数据回收、效果评估和下一阶段调整串成七步工作流。",
+      "required_evidence": [
+        "投放记录、目标与实绩、案例素材、反馈及下一期决策。"
+      ],
+      "do_not_use_when": "只需要展示结果而非流程，或未完成复盘却将成功因素写成事实。",
+      "replacement_guidance": "七步写成项目实际任务/产物；右侧优化项选择有证据的问题，不默认必须AI自动化。",
+      "preview": "assets/stratx100/previews/052.png"
+    },
+    {
+      "id": "053",
+      "title": "高潜内容筛选机制与爆文投放策略路径",
+      "source_page": 113,
+      "guide_page": 114,
+      "guide": "references/stratx100/053.md",
+      "selection_terms": [
+        "内容赛马",
+        "潜力筛选",
+        "爆文放大",
+        "测试漏斗"
+      ],
+      "page_task": "从多类型种子内容测试到筛选，再集中放大有效素材。",
+      "required_evidence": [
+        "测试样本、周期、分发条件、CTR/互动/回搜及实际晋级规则。"
+      ],
+      "do_not_use_when": "样本不可比或无测试数据，仍声称前30%/20%必然有效。",
+      "replacement_guidance": "5+、30%、20%全部按实际规则改；说明筛选分母及放大量，结果指标与商业目标对应。",
+      "preview": "assets/stratx100/previews/053.png"
+    },
+    {
+      "id": "054",
+      "title": "用户私域沟通机制与高效服务转化策略",
+      "source_page": 115,
+      "guide_page": 116,
+      "guide": "references/stratx100/054.md",
+      "selection_terms": [
+        "私信客服",
+        "开口留资",
+        "自动回复",
+        "线索分线"
+      ],
+      "page_task": "按进线响应、对话沟通、留资管理说明服务漏斗优化。",
+      "required_evidence": [
+        "客服流程、平台真实功能、首响/开口/留资数据、用户信息授权范围。"
+      ],
+      "do_not_use_when": "把留资当成交，或工具没有自动抓取/分线能力却写已部署。",
+      "replacement_guidance": "三个模块替换实际话术和系统能力；底部反馈对应漏斗节点，个人资料仅用授权脱敏内容。",
+      "preview": "assets/stratx100/previews/054.png"
+    },
+    {
+      "id": "055",
+      "title": "多层关键词策略驱动的搜索投放打法",
+      "source_page": 117,
+      "guide_page": 118,
+      "guide": "references/stratx100/055.md",
+      "selection_terms": [
+        "搜索词分层",
+        "守抢拓探",
+        "品牌品类场景",
+        "上游意向"
+      ],
+      "page_task": "用四层关键词结构区分防守、竞争、精准扩展和探索目标。",
+      "required_evidence": [
+        "关键词清单、用户意图、搜索趋势、分层投放与结果口径。"
+      ],
+      "do_not_use_when": "只需完整词表而非策略，或无搜索数据却宣称搜索/资产增长。",
+      "replacement_guidance": "金字塔每层给真实词例；搜索指数、资产、销售分开验证，原+30%类目热销榜指标需重新定义。",
+      "preview": "assets/stratx100/previews/055.png"
+    },
+    {
+      "id": "056",
+      "title": "年度内容发布节奏与营销高峰趋势拆解",
+      "source_page": 119,
+      "guide_page": 120,
+      "guide": "references/stratx100/056.md",
+      "selection_terms": [
+        "年度内容趋势",
+        "双年对比",
+        "节日峰值",
+        "季度侧重"
+      ],
+      "page_task": "以两年发布与互动趋势识别内容高峰，再提出季度节奏。",
+      "required_evidence": [
+        "同口径月度内容量/互动量、节日日期、内容类型及执行记录。"
+      ],
+      "do_not_use_when": "只拿行业节日常识画客户全年曲线，或不完整年度同比。",
+      "replacement_guidance": "更新年份、12个月序列和节点标注；阶段命名一致，趋势只支持相关性，不能单独证明ROI提升。",
+      "preview": "assets/stratx100/previews/056.png"
+    },
+    {
+      "id": "057",
+      "title": "内容测试分阶段策略与爆文转化路径优化",
+      "source_page": 121,
+      "guide_page": 122,
+      "guide": "references/stratx100/057.md",
+      "selection_terms": [
+        "场景科普测试",
+        "内容配比变化",
+        "CTR筛选",
+        "测试放量"
+      ],
+      "page_task": "对照测试期与放量期的内容组合，解释为何调整场景/科普比例。",
+      "required_evidence": [
+        "素材分类、可比A/B或阶段数据、目标人群、指标与预算变化记录。"
+      ],
+      "do_not_use_when": "用CTR改善直接证明人群渗透提升或医疗效果。",
+      "replacement_guidance": "重命名重复P2；更新两期占比与内容样例，行业CTR均值需来源，未执行改为测试方案。",
+      "preview": "assets/stratx100/previews/057.png"
+    },
+    {
+      "id": "058",
+      "title": "品牌搜索增长策略与关键词优化路径",
+      "source_page": 123,
+      "guide_page": 124,
+      "guide": "references/stratx100/058.md",
+      "selection_terms": [
+        "品专自然搜索",
+        "搜索拦截",
+        "品牌非品牌词",
+        "PV趋势"
+      ],
+      "page_task": "比较搜索资源与自然入口表现，并拆解品牌词/非品牌词增长。",
+      "required_evidence": [
+        "各入口定义、可比窗口、品牌词分类、PV与关注/偏好测量。"
+      ],
+      "do_not_use_when": "没有品专对照或拦截率分母，仍给倍数效果。",
+      "replacement_guidance": "三类入口及两类词趋势分别替换；品牌偏爱度需调查证据，不能用关注率代替。",
+      "preview": "assets/stratx100/previews/058.png"
+    },
+    {
+      "id": "059",
+      "title": "内容投放测试策略与渠道分层优化路径",
+      "source_page": 125,
+      "guide_page": 126,
+      "guide": "references/stratx100/059.md",
+      "selection_terms": [
+        "四类素材测试",
+        "信息流SEM",
+        "稳冲测",
+        "渠道组合"
+      ],
+      "page_task": "把内容样本筛选、人群/搜索分发与渠道稳冲测组合串起来。",
+      "required_evidence": [
+        "素材样本、测试指标、实际定向和词包、渠道预算及效果。"
+      ],
+      "do_not_use_when": "仅高CTR便直接放量，缺后链路质量或渠道成本证据。",
+      "replacement_guidance": "四类内容使用真实样例；信息流与搜索各写匹配规则，稳冲测注明目标和验证门槛。",
+      "preview": "assets/stratx100/previews/059.png"
+    },
+    {
+      "id": "060",
+      "title": "用户全链路内容触达策略拆解",
+      "source_page": 127,
+      "guide_page": 128,
+      "guide": "references/stratx100/060.md",
+      "selection_terms": [
+        "认知阶段内容矩阵",
+        "场景痛点科普评测",
+        "内容占比"
+      ],
+      "page_task": "按四个决策阶段对应用户需求、内容方向、类型、配比与样例。",
+      "required_evidence": [
+        "用户决策语料、分阶段任务、内容样本、占比定义/依据。"
+      ],
+      "do_not_use_when": "实际决策并非四阶段却硬套，或用健康功效示例当客户事实。",
+      "replacement_guidance": "每列需求到Demo完整替换；2X/4X占位不能遗留，比例按同分母校验，阶段内容要有区别。",
+      "preview": "assets/stratx100/previews/060.png"
+    },
+    {
+      "id": "061",
+      "title": "节点活动营销规划全周期拆解",
+      "source_page": 129,
+      "guide_page": 130,
+      "guide": "references/stratx100/061.md",
+      "selection_terms": [
+        "节点三阶段",
+        "主题媒介渠道",
+        "达人主播排期",
+        "预算"
+      ],
+      "page_task": "把预热、预售、爆发三阶段的内容、媒体、达人、货品和会员动作排在同表。",
+      "required_evidence": [
+        "活动日期、产品及主播资源、阶段预算、会员权益和任务负责人。"
+      ],
+      "do_not_use_when": "只有年度方向，没有节点/资源确认却写执行计划。",
+      "replacement_guidance": "日期、内容主题、达人及预算整列联动替换；修正原生错字，明确计划状态和阶段KPI。",
+      "preview": "assets/stratx100/previews/061.png"
+    },
+    {
+      "id": "062",
+      "title": "品类GMV表现与用户偏好要素拆解",
+      "source_page": 131,
+      "guide_page": 132,
+      "guide": "references/stratx100/062.md",
+      "selection_terms": [
+        "品类GMV",
+        "款式材质场景",
+        "选品优先级",
+        "决策因子"
+      ],
+      "page_task": "用六品类销售表现连接用户购选因素，再提出产品/价格/渠道动作。",
+      "required_evidence": [
+        "品类GMV及占比/增速定义",
+        "用户决策调研",
+        "商品属性。"
+      ],
+      "do_not_use_when": "将超过100%的原示例称GMV占比，或单凭销量推断偏好原因。",
+      "replacement_guidance": "先把原两组同名GMV占比改成真实不同指标；六品类总占比校验，右侧因子按品类重写。",
+      "preview": "assets/stratx100/previews/062.png"
+    },
+    {
+      "id": "063",
+      "title": "组合型产品销售趋势与用户关注特征分析",
+      "source_page": 133,
+      "guide_page": 134,
+      "guide": "references/stratx100/063.md",
+      "selection_terms": [
+        "组合产品",
+        "价格带",
+        "功能材质痛点",
+        "代表SKU"
+      ],
+      "page_task": "联动销售/推广热度、价格结构与关注词，选择组合商品的沟通重点。",
+      "required_evidence": [
+        "价格带销量、代表SKU配置与价格、用户关注语料及热度定义。"
+      ],
+      "do_not_use_when": "实际是独立单品却称组合销售，或词云大小无依据。",
+      "replacement_guidance": "替换价格带和代表商品；三类词云去重并按真实频率映射，不能把跨品类泛词拼成洞察。",
+      "preview": "assets/stratx100/previews/063.png"
+    },
+    {
+      "id": "064",
+      "title": "潮流话题演变趋势与热门标签分析",
+      "source_page": 135,
+      "guide_page": 136,
+      "guide": "references/stratx100/064.md",
+      "selection_terms": [
+        "潮流标签",
+        "话题播放互动",
+        "热点优先级",
+        "时尚趋势"
+      ],
+      "page_task": "比较热门标签的规模、增长和参与，选择适合品牌的趋势内容。",
+      "required_evidence": [
+        "平台话题数据、投稿/播放/互动定义、年份与同比基期、品牌关联。"
+      ],
+      "do_not_use_when": "把示例英文标签当真实热门趋势，或绝对播放量直接代表投放回报。",
+      "replacement_guidance": "四话题及配图、数据成组替换；注明累计/期间，核对总量与分项，增长高须注意基数。",
+      "preview": "assets/stratx100/previews/064.png"
+    },
+    {
+      "id": "065",
+      "title": "海外市场洞察与品类线上增长趋势",
+      "source_page": 137,
+      "guide_page": 138,
+      "guide": "references/stratx100/065.md",
+      "selection_terms": [
+        "海外品类增长",
+        "国家平台分布",
+        "老龄化",
+        "出海机会"
+      ],
+      "page_task": "把海外渠道和国家销售结构与人口因素结合，筛选增量市场。",
+      "required_evidence": [
+        "各国同币种/周期销售、品类分类、人口统计来源、汇率口径。"
+      ],
+      "do_not_use_when": "仅人口相关性便认定销量增长由老龄化造成，或跨国数据不可比。",
+      "replacement_guidance": "平台/国家/品类图与结论同步；清晰区分占比和增速，人口仅作为待验证驱动线索。",
+      "preview": "assets/stratx100/previews/065.png"
+    },
+    {
+      "id": "066",
+      "title": "海外经济增长与零售渠道演变趋势",
+      "source_page": 139,
+      "guide_page": 140,
+      "guide": "references/stratx100/066.md",
+      "selection_terms": [
+        "出海市场筛选",
+        "经济人口零售",
+        "渠道结构",
+        "本地化"
+      ],
+      "page_task": "横向比较经济、代际人口和零售渠道，为国家优先级与本地化提出依据。",
+      "required_evidence": [
+        "权威经济人口统计、币种/年度、渠道定义及同口径零售规模。"
+      ],
+      "do_not_use_when": "宏观增长直接等同品牌可进入或销售潜力已验证。",
+      "replacement_guidance": "六国表格与图表同一时间口径；检查渠道总和、区域合计，原示例总额/国家数值不作为事实。",
+      "preview": "assets/stratx100/previews/066.png"
+    },
+    {
+      "id": "067",
+      "title": "产品卖点趋势洞察与用户沟通重点",
+      "source_page": 141,
+      "guide_page": 142,
+      "guide": "references/stratx100/067.md",
+      "selection_terms": [
+        "卖点象限",
+        "声量增长",
+        "用户关键词",
+        "潜力需求"
+      ],
+      "page_task": "以维度与关键词两张声量占比×增速图区分主流卖点与潜力卖点。",
+      "required_evidence": [
+        "真实语料分类、词频、同比基期、声量分母、产品支持能力。"
+      ],
+      "do_not_use_when": "仅有热词没有量化/基期，或热门需求不被产品满足仍作为卖点。",
+      "replacement_guidance": "同步替换两图点位、均值线和结论；高增低量与高增高量分开，产品能力须另证。",
+      "preview": "assets/stratx100/previews/067.png",
+      "source_alert": "气泡名称、箭头、均值虚线含独立静态对象；改缓存/Excel不会带动它们移动，必须人工联动重排后看图。"
+    },
+    {
+      "id": "068",
+      "title": "品牌销售表现拆解与投放成效复盘",
+      "source_page": 143,
+      "guide_page": 144,
+      "guide": "references/stratx100/068.md",
+      "selection_terms": [
+        "月度销售复盘",
+        "直播商品卡达人",
+        "热卖TOP3",
+        "回购"
+      ],
+      "page_task": "合并渠道销售构成、趋势、商品、达人、搜索和用户结构定位月度拉动因素。",
+      "required_evidence": [
+        "月度销售及渠道归因、热销商品、达人执行、搜索榜、复购数据。"
+      ],
+      "do_not_use_when": "渠道层级重叠却相加，或曝光增长被写成销量增长。",
+      "replacement_guidance": "直播/商品卡与达人常非互斥，先定义维度；更新月份、榜单和右侧曝光环比，解释重叠占比。",
+      "preview": "assets/stratx100/previews/068.png"
+    },
+    {
+      "id": "069",
+      "title": "节日营销策略拆解与内容布局优化",
+      "source_page": 145,
+      "guide_page": 146,
+      "guide": "references/stratx100/069.md",
+      "selection_terms": [
+        "节日内容",
+        "关系共鸣",
+        "节点案例",
+        "情感营销"
+      ],
+      "page_task": "将节日内容热度与亲密/亲子等关系场景和具体案例结果对应。",
+      "required_evidence": [
+        "节日内容样本、用户关系语料、真实项目动作与效果基准。"
+      ],
+      "do_not_use_when": "所有节日套同一种情感表达，或原品牌X/Y例数被误作真实案例。",
+      "replacement_guidance": "替换Top10图、关系场景和两例；曝光率/转化率注明提升百分比或百分点，建议与证据相连。",
+      "preview": "assets/stratx100/previews/069.png"
+    },
+    {
+      "id": "070",
+      "title": "品牌影响力提升与内容驱动转化策略",
+      "source_page": 147,
+      "guide_page": 148,
+      "guide": "references/stratx100/070.md",
+      "selection_terms": [
+        "品牌力转化力",
+        "内容促销协同",
+        "热点专家",
+        "内容任务"
+      ],
+      "page_task": "区分品牌影响、产品种草、热点曝光与消费转化的内容职责。",
+      "required_evidence": [
+        "品牌目标、实际资源、内容/促销组合、每层衡量指标。"
+      ],
+      "do_not_use_when": "只有曝光项目却需要成交闭环，或虚构专家/代言合作。",
+      "replacement_guidance": "按目标选择左右内容动作；中央四维不写成已验证指标，底部认知/种草/转化用不同验收口径。",
+      "preview": "assets/stratx100/previews/070.png"
+    },
+    {
+      "id": "071",
+      "title": "高潜人群渗透与区域触达策略",
+      "source_page": 149,
+      "guide_page": 150,
+      "guide": "references/stratx100/071.md",
+      "selection_terms": [
+        "高潜人群",
+        "地域地图",
+        "职业行业",
+        "高净值"
+      ],
+      "page_task": "把年龄、职业和地域分布转成重点地区与场景触达选择。",
+      "required_evidence": [
+        "人群筛选定义、地区人数、职业/行业结构和统计来源。"
+      ],
+      "do_not_use_when": "无资产数据却将中产/高互动称高净值，或静态分布证明渗透增长。",
+      "replacement_guidance": "地图图例资产门槛/人数单位先修正；区域与画像口径一致，内容建议按真实需求而非职业刻板印象。",
+      "preview": "assets/stratx100/previews/071.png"
+    },
+    {
+      "id": "072",
+      "title": "直播营销投放路径拆解与人群转化策略",
+      "source_page": 151,
+      "guide_page": 152,
+      "guide": "references/stratx100/072.md",
+      "selection_terms": [
+        "直播投流",
+        "预约30秒ROI",
+        "预算阶段",
+        "人群沉淀"
+      ],
+      "page_task": "解释预约、观看和转化三类计划与人群/互动策略如何分工。",
+      "required_evidence": [
+        "实际计划目标、预算份额、定向、直播前中动作、GMV/ROI/预约定义。"
+      ],
+      "do_not_use_when": "无投流日志仍声称全链路优化，或ROI口径把整场GMV除局部消耗。",
+      "replacement_guidance": "按实际计划改三段及比例；结果与对应直播场次一致，人群扩展需标识推测/实际定向。",
+      "preview": "assets/stratx100/previews/072.png"
+    },
+    {
+      "id": "073",
+      "title": "高质量内容标准制定与多平台精投策略",
+      "source_page": 153,
+      "guide_page": 154,
+      "guide": "references/stratx100/073.md",
+      "selection_terms": [
+        "内容制作规范",
+        "图文视频标准",
+        "频率质量",
+        "分发互动"
+      ],
+      "page_task": "将产出频次、素材标准和分发/互动动作组织为可执行内容规范。",
+      "required_evidence": [
+        "品牌规范、平台当前适配规则、产能、内容测试与互动路径。"
+      ],
+      "do_not_use_when": "把每日数量、17字、4分钟等示例当平台硬规则。",
+      "replacement_guidance": "按真实平台及测试结果替换频率、比例、尺寸和时长；保留质量目标，不默认高饱和/短标题适用全部品牌。",
+      "preview": "assets/stratx100/previews/073.png"
+    },
+    {
+      "id": "074",
+      "title": "用户类型细分与个性化消费偏好洞察",
+      "source_page": 155,
+      "guide_page": 156,
+      "guide": "references/stratx100/074.md",
+      "selection_terms": [
+        "消费价值观",
+        "务实社交",
+        "理性尝鲜",
+        "差异沟通"
+      ],
+      "page_task": "用价值取向与决策方式两组对照提出不同用户的沟通和产品策略。",
+      "required_evidence": [
+        "访谈/调研或行为聚类证据、分类定义、内容偏好验证。"
+      ],
+      "do_not_use_when": "把两条可交叉维度强当四类互斥人群，或凭年龄贴心理标签。",
+      "replacement_guidance": "明确两维与四类是否重叠；替换对比语言和建议，未经验证标为待测试假设。",
+      "preview": "assets/stratx100/previews/074.png"
+    },
+    {
+      "id": "075",
+      "title": "品牌内容运营联动与用户互动提升策略",
+      "source_page": 157,
+      "guide_page": 158,
+      "guide": "references/stratx100/075.md",
+      "selection_terms": [
+        "内容整合",
+        "H5互动",
+        "头部合作",
+        "跨平台资源"
+      ],
+      "page_task": "总览内容统一、话题互动、头部合作、传播渠道与外部协同五种动作。",
+      "required_evidence": [
+        "已获资源、内容主张、互动玩法、平台合作和承接安排。"
+      ],
+      "do_not_use_when": "需要细化时间表/数据归因，却只提供泛策略清单。",
+      "replacement_guidance": "五模块按真实资源替换；H5或明星无资源就换实际载体，所有执行建议标清未执行。",
+      "preview": "assets/stratx100/previews/075.png"
+    },
+    {
+      "id": "076",
+      "title": "人群分层转化下的整合营销活动策略",
+      "source_page": 159,
+      "guide_page": 160,
+      "guide": "references/stratx100/076.md",
+      "selection_terms": [
+        "分层活动",
+        "AIPL路径",
+        "内容传播承接",
+        "双月排期"
+      ],
+      "page_task": "把用户阶段与品牌、达人、公域/商城职责及活动节奏对应。",
+      "required_evidence": [
+        "项目自有人群模型定义、阶段行为、实际渠道和排期。"
+      ],
+      "do_not_use_when": "默认此页O/A/I/P/L与官方AIPL一致；字母映射未定义。",
+      "replacement_guidance": "先确认阶段定义再替换漏斗；8/9月改真实日期，逐层配置内容任务与终点，不能用计划证明转化。",
+      "preview": "assets/stratx100/previews/076.png"
+    },
+    {
+      "id": "077",
+      "title": "用户种草转化的全链路路径洞察",
+      "source_page": 161,
+      "guide_page": 162,
+      "guide": "references/stratx100/077.md",
+      "selection_terms": [
+        "回搜路径",
+        "搜索上下游",
+        "站外验证",
+        "前后链路"
+      ],
+      "page_task": "拆开内容触达/回搜等前链与进店/购买后链，并配置品牌不同主场打法。",
+      "required_evidence": [
+        "用户行为/词包、内容触点、站外交易联接和归因限制。"
+      ],
+      "do_not_use_when": "仅站内数据却声称后链路购买已验证。",
+      "replacement_guidance": "替换上方多入口搜索路径及下方两品牌策略；保留前后证据边界，进店不等于购买。",
+      "preview": "assets/stratx100/previews/077.png"
+    },
+    {
+      "id": "078",
+      "title": "行业品类增长趋势与用户认知演进",
+      "source_page": 163,
+      "guide_page": 164,
+      "guide": "references/stratx100/078.md",
+      "selection_terms": [
+        "品类增长驱动",
+        "人数频次客单",
+        "用户心智",
+        "市场规模"
+      ],
+      "page_task": "把规模变化拆为人数、频次、价格因素，再对照用户关注点。",
+      "required_evidence": [
+        "同周期交易数据、指标公式、心智调查样本和题目。"
+      ],
+      "do_not_use_when": "只有规模总量无法分解，或调查样本未定义就写市场消费者共识。",
+      "replacement_guidance": "先统一笔单价/客单价等公式，避免重复因子；图表与来源行一起替换，多选心智比例不强凑100%。",
+      "preview": "assets/stratx100/previews/078.png"
+    },
+    {
+      "id": "079",
+      "title": "基于生命周期的人群运营策略与品牌增长路径",
+      "source_page": 165,
+      "guide_page": 166,
+      "guide": "references/stratx100/079.md",
+      "selection_terms": [
+        "全生命周期",
+        "使用者决策者",
+        "产品矩阵",
+        "会员体系"
+      ],
+      "page_task": "沿生命阶段展示需求变化，并解释单品、品类到全品类的增长与会员结构。",
+      "required_evidence": [
+        "实际使用者/购买决策者、产品适用范围、阶段需求、会员行为。"
+      ],
+      "do_not_use_when": "把年龄生理变化作未经证实的健康结论，或品牌只做一阶段却虚构全生命周期供给。",
+      "replacement_guidance": "七阶段可按业务范围改；区分产品使用者和付款决策者，三循环用真实增长路径，不强行全品类。",
+      "preview": "assets/stratx100/previews/079.png"
+    },
+    {
+      "id": "080",
+      "title": "社交内容场景运营与账号成长策略",
+      "source_page": 167,
+      "guide_page": 168,
+      "guide": "references/stratx100/080.md",
+      "selection_terms": [
+        "账号场景内容",
+        "年轻女性",
+        "宠物CP性能",
+        "成长复盘"
+      ],
+      "page_task": "用账号定位与五种生活场景内容解释粉丝、互动和形象变化。",
+      "required_evidence": [
+        "账号后台截点、原笔记、内容主题归类、增长基期。"
+      ],
+      "do_not_use_when": "未读具体内容就写宠物/海外场景，或拿粉丝数证明品牌定位已建立。",
+      "replacement_guidance": "替换五主题与真实截图；原18万和一年5万须拆清存量/增量，互动与心智效果各有证据。",
+      "preview": "assets/stratx100/previews/080.png"
+    },
+    {
+      "id": "081",
+      "title": "人群生活方式洞察与兴趣标签运营策略",
+      "source_page": 169,
+      "guide_page": 170,
+      "guide": "references/stratx100/081.md",
+      "selection_terms": [
+        "生活方式标签",
+        "父母买手",
+        "兴趣关联",
+        "核心高潜泛"
+      ],
+      "page_task": "将具体生活方式的人群动机映射到平台兴趣层级。",
+      "required_evidence": [
+        "标签定义、关联指标分母、分层排序规则、目标用户语料。"
+      ],
+      "do_not_use_when": "把TOP20%直接当占20%用户，或相关比例当购买概率。",
+      "replacement_guidance": "人群名称统一原文错别字；每个百分比明确关联度/TGI/占比含义，核心层级按实际排序。",
+      "preview": "assets/stratx100/previews/081.png"
+    },
+    {
+      "id": "082",
+      "title": "项目启动背景解析与策略方向总览",
+      "source_page": 171,
+      "guide_page": 172,
+      "guide": "references/stratx100/082.md",
+      "selection_terms": [
+        "项目缘起",
+        "线上化",
+        "资源约束",
+        "目标策略总览"
+      ],
+      "page_task": "从用户习惯与外部约束推导成本、覆盖、品牌目标和运营方向。",
+      "required_evidence": [
+        "项目真实背景、用户行为证据、预算时间人力限制、目标优先级。"
+      ],
+      "do_not_use_when": "无历史背景仍套特殊时期/线上转型故事，或用愿景代替事实。",
+      "replacement_guidance": "左侧驱动换成客户实际原因，中部目标写权衡，右侧策略数量与内容一致；不沿用六项但仅五项的描述。",
+      "preview": "assets/stratx100/previews/082.png"
+    },
+    {
+      "id": "083",
+      "title": "用户精细化运营路径与转化闭环策略",
+      "source_page": 173,
+      "guide_page": 174,
+      "guide": "references/stratx100/083.md",
+      "selection_terms": [
+        "用户池管理",
+        "分层服务",
+        "回流循环",
+        "精细运营"
+      ],
+      "page_task": "将需求感知、分级服务和回流转化连成可持续用户经营循环。",
+      "required_evidence": [
+        "用户分层规则、服务内容、触达记录、回流/转化定义。"
+      ],
+      "do_not_use_when": "无用户数据沉淀或服务反馈，却声称已闭环。",
+      "replacement_guidance": "用户池标签与右侧服务一一匹配；底部多省快好可换为实测效率指标，回流不等于复购。",
+      "preview": "assets/stratx100/previews/083.png"
+    },
+    {
+      "id": "084",
+      "title": "品牌内容生态现状与搜索承接力评估",
+      "source_page": 175,
+      "guide_page": 176,
+      "guide": "references/stratx100/084.md",
+      "selection_terms": [
+        "搜索承接诊断",
+        "前屏内容",
+        "上下游词",
+        "生态缺口"
+      ],
+      "page_task": "用品牌词前屏和内容质量/更新/账号结构判断搜索承接缺口。",
+      "required_evidence": [
+        "带日期的真实搜索结果、关键词、内容采样、优质判定及账号分类。"
+      ],
+      "do_not_use_when": "读取失败或未搜索却结论为无优质内容，或无路径数据声称跳出到竞品。",
+      "replacement_guidance": "三栏均用实际检索截图和计数；示例148篇/12%全部替换，缺失搜索证据标未核验而非零。",
+      "preview": "assets/stratx100/previews/084.png"
+    },
+    {
+      "id": "085",
+      "title": "品牌定位路径与关键指标拆解",
+      "source_page": 177,
+      "guide_page": 178,
+      "guide": "references/stratx100/085.md",
+      "selection_terms": [
+        "品牌定位KPI",
+        "四高策略",
+        "爆品差异化",
+        "任务拆解"
+      ],
+      "page_task": "把品牌定位转换为竞争、场域、内容渗透和市场指标，并配产品抓手。",
+      "required_evidence": [
+        "品牌定位、产品差异、各指标分母/范围、批准目标和基线。"
+      ],
+      "do_not_use_when": "把搜索份额叫市场销售占有率，或将目标排名呈现为已取得。",
+      "replacement_guidance": "四目标使用明确指标名及目标状态；爆品与差异化SKU真实替换，排名范围和阈值对应。",
+      "preview": "assets/stratx100/previews/085.png"
+    },
+    {
+      "id": "086",
+      "title": "内容偏好趋势与爆品资源打法识别",
+      "source_page": 179,
+      "guide_page": 180,
+      "guide": "references/stratx100/086.md",
+      "selection_terms": [
+        "内容偏好",
+        "商笔互动",
+        "明星虚拟人节点",
+        "资源组合"
+      ],
+      "page_task": "以内容资产与场景偏好为依据，归纳爆品资源组合打法。",
+      "required_evidence": [
+        "内容样本与场景标签、商业笔记判定、互动、合作记录、可披露费用。"
+      ],
+      "do_not_use_when": "用估算金额当客户真实消耗，或未经合作记录就写明星/虚拟人打法。",
+      "replacement_guidance": "金额按披露范围移除/指数化；场景百分比可重叠要标多标签；策略总结必须回到实际样本。",
+      "preview": "assets/stratx100/previews/086.png"
+    },
+    {
+      "id": "087",
+      "title": "品牌内容阵地运营模型与达人联动机制",
+      "source_page": 181,
+      "guide_page": 182,
+      "guide": "references/stratx100/087.md",
+      "selection_terms": [
+        "官号直播达人",
+        "主阵地",
+        "引流回流",
+        "品牌效果投放"
+      ],
+      "page_task": "以官方账号为核心，展示短视频、直播与达人如何互相导流和承接。",
+      "required_evidence": [
+        "账号/直播/达人内容、实际导流入口、回流与转化日志。"
+      ],
+      "do_not_use_when": "没有直播/达人资源还宣称三层联动，或把平台官号直接称私域。",
+      "replacement_guidance": "三层职责及箭头联动替换；品牌曝光、互动和效果转化分层，不用账号增粉代替销售。",
+      "preview": "assets/stratx100/previews/087.png"
+    },
+    {
+      "id": "088",
+      "title": "人群分层投放策略与搜索引流联动路径",
+      "source_page": 183,
+      "guide_page": 184,
+      "guide": "references/stratx100/088.md",
+      "selection_terms": [
+        "Feeds与SEM",
+        "品类场景人群",
+        "SOV目标",
+        "词包"
+      ],
+      "page_task": "将品类×消费能力和场景人群对应到信息流定向，再由分层搜索词承接。",
+      "required_evidence": [
+        "平台实际标签、用户需求、词包搜索量/竞争强度、SOV定义及目标依据。"
+      ],
+      "do_not_use_when": "不能验证高净值或标签可用性，仍填定向已达成；SOV目标被当实绩。",
+      "replacement_guidance": "左右人群与词包对应；90/40/3按客户目标调整，SOV注明统计范围，行业词全量替换。",
+      "preview": "assets/stratx100/previews/088.png"
+    },
+    {
+      "id": "089",
+      "title": "搜索投放策略拆解与关键词覆盖路径",
+      "source_page": 185,
+      "guide_page": 186,
+      "guide": "references/stratx100/089.md",
+      "selection_terms": [
+        "守攻拓抢破",
+        "SEM词表",
+        "搜索量竞争度",
+        "SOV"
+      ],
+      "page_task": "提供五类搜索任务及详细词包，便于比较覆盖与优先级。",
+      "required_evidence": [
+        "真实关键词和搜索量周期、竞争指标、品牌/竞品实体、目标SOV。"
+      ],
+      "do_not_use_when": "只想概念策略页而没有词表，或把泛品类词误分为竞品品牌词。",
+      "replacement_guidance": "逐词审核类别，原竞品栏大量通用词需纠正；词表、阈值、说明一并替换，保持密集表格可读。",
+      "preview": "assets/stratx100/previews/089.png"
+    },
+    {
+      "id": "090",
+      "title": "高价值用户扩量路径与转化提效策略",
+      "source_page": 187,
+      "guide_page": 188,
+      "guide": "references/stratx100/090.md",
+      "selection_terms": [
+        "高价值扩量",
+        "出价测试",
+        "人群素材组合",
+        "稳定优化"
+      ],
+      "page_task": "按准备、测试、放量、稳定四阶段讲清投放扩量的验证和迭代。",
+      "required_evidence": [
+        "高价值定义、人群来源、组合实验、出价/预算变化、后链路质量。"
+      ],
+      "do_not_use_when": "只有点击率或人群包覆盖量，无法判定高价值用户。",
+      "replacement_guidance": "四阶段按真实项目顺序与门槛替换；结果区填可证后效，不把工具能力当本项目执行事实。",
+      "preview": "assets/stratx100/previews/090.png"
+    },
+    {
+      "id": "091",
+      "title": "平台用户结构洞察与高活跃人群特征分析",
+      "source_page": 189,
+      "guide_page": 190,
+      "guide": "references/stratx100/091.md",
+      "selection_terms": [
+        "终端用户结构",
+        "持机活跃",
+        "换机留存",
+        "机型场景"
+      ],
+      "page_task": "用活跃时长、换机留存、机型和场景分布判断终端用户质量。",
+      "required_evidence": [
+        "设备/用户去重规则、活跃时长、换机队列、画像/机型价格段与样本。"
+      ],
+      "do_not_use_when": "一般社媒粉丝分析却沿用换机留存，或把高价机用户等同高消费价值。",
+      "replacement_guidance": "按终端实际数据更新所有图；8.55与57.6及TOP1注明范围，若换行业须整体重定义指标。",
+      "preview": "assets/stratx100/previews/091.png"
+    },
+    {
+      "id": "092",
+      "title": "用户偏好与内容形态差异对比分析",
+      "source_page": 191,
+      "guide_page": 192,
+      "guide": "references/stratx100/092.md",
+      "selection_terms": [
+        "双平台对比",
+        "用户内容差异",
+        "图文短视频",
+        "账号方向"
+      ],
+      "page_task": "对照两平台用户偏好和内容形式，提出不同账号运营方向。",
+      "required_evidence": [
+        "当期平台目标类目样本、用户结构及内容互动表现。"
+      ],
+      "do_not_use_when": "仅凭平台刻板印象判定全部用户偏好，或希望展示量化TGI而只有描述。",
+      "replacement_guidance": "两栏保持相同维度；标签结合本品牌受众验证，内容形式不排他，平台名称与建议同步替换。",
+      "preview": "assets/stratx100/previews/092.png"
+    },
+    {
+      "id": "093",
+      "title": "品牌直播矩阵拆解与主推商品策略分析",
+      "source_page": 193,
+      "guide_page": 194,
+      "guide": "references/stratx100/093.md",
+      "selection_terms": [
+        "直播账号矩阵",
+        "主推货品",
+        "价格画像",
+        "直播间拆解"
+      ],
+      "page_task": "用多账号商品配置表与旗舰店真实讲解节奏说明直播分工。",
+      "required_evidence": [
+        "账号销售/商品/粉丝数据、价格截点、完整直播片段或观察记录。"
+      ],
+      "do_not_use_when": "只有商品表却声称10分钟一轮或已看24小时直播。",
+      "replacement_guidance": "表格各行绑定实际账号，热度圆点定义清楚；右侧用真实时间码截图和话术，未观察时不写既成策略。",
+      "preview": "assets/stratx100/previews/093.png"
+    },
+    {
+      "id": "094",
+      "title": "平台品类市场走势与品牌表现概览",
+      "source_page": 195,
+      "guide_page": 196,
+      "guide": "references/stratx100/094.md",
+      "selection_terms": [
+        "品类市场走势",
+        "品牌TOP20",
+        "GMV排名",
+        "份额同比"
+      ],
+      "page_task": "将半年品类趋势与品牌销售排名联动，识别竞争变化。",
+      "required_evidence": [
+        "平台品类范围、时间序列、品牌排名指标、区间估计方法、份额分母。"
+      ],
+      "do_not_use_when": "区间估算被写精确GMV，或排名与用于排序的指标不一致。",
+      "replacement_guidance": "替换趋势及20行数据，删除误留的24小时直播间标题；核查排序、份额和同比，保留估算范围。",
+      "preview": "assets/stratx100/previews/094.png"
+    },
+    {
+      "id": "095",
+      "title": "新品全链路上新策略路径BURST模型",
+      "source_page": 197,
+      "guide_page": 198,
+      "guide": "references/stratx100/095.md",
+      "selection_terms": [
+        "新品BURST",
+        "调研定标投流运营",
+        "平台资源",
+        "上新协同"
+      ],
+      "page_task": "按共创调研、策略定标、上市投流、货品转化安排新品工作。",
+      "required_evidence": [
+        "新品研究、价格/卖点、上市排期、渠道资源和货品配置。"
+      ],
+      "do_not_use_when": "把自定义BURST词义当官方模型，或7天/14天节奏当普遍规律。",
+      "replacement_guidance": "生产页英文拼写与解读页不同，选定并说明项目版本；四阶段中文任务为准，五类平台能力仅填已确认资源。",
+      "preview": "assets/stratx100/previews/095.png"
+    },
+    {
+      "id": "096",
+      "title": "年度内容节奏与节点营销策略",
+      "source_page": 199,
+      "guide_page": 200,
+      "guide": "references/stratx100/096.md",
+      "selection_terms": [
+        "年度内容年历",
+        "月主题达人形式",
+        "直播联动",
+        "持续运营"
+      ],
+      "page_task": "把月度主题、达人、形式和内容/直播趋势编成全年运营节奏。",
+      "required_evidence": [
+        "真实年度排期或历史发布、达人合作、互动播放和直播场次。"
+      ],
+      "do_not_use_when": "把历史播放示例当未来目标保证，或只因峰谷认定缺少持续运营。",
+      "replacement_guidance": "12行与趋势图同步替换；标计划或复盘，互动量与播放量不同指标，节日按实际年份更新。",
+      "preview": "assets/stratx100/previews/096.png",
+      "source_alert": "下方4序列组合图与上方月度表是独立对象；图表改值后需要同步核对表格和结论。"
+    },
+    {
+      "id": "097",
+      "title": "信息流投放分人群精细触达策略",
+      "source_page": 201,
+      "guide_page": 202,
+      "guide": "references/stratx100/097.md",
+      "selection_terms": [
+        "分人群信息流",
+        "品牌品类高净值",
+        "定向素材",
+        "覆盖估算"
+      ],
+      "page_task": "以四类人群并列说明内容、投放目标和可触达规模。",
+      "required_evidence": [
+        "平台人群包定义、估算时间、重叠/去重、实际定向能力与素材。"
+      ],
+      "do_not_use_when": "四群覆盖直接求和，或精华人群未定义便视为通用平台标签。",
+      "replacement_guidance": "用真实标签替换四类；预计覆盖保留估计状态，不能改写成触达实绩，素材围绕不同需求。",
+      "preview": "assets/stratx100/previews/097.png"
+    },
+    {
+      "id": "098",
+      "title": "细分赛道爆品占位策略",
+      "source_page": 203,
+      "guide_page": 204,
+      "guide": "references/stratx100/098.md",
+      "selection_terms": [
+        "细分赛道占位",
+        "大类渗透",
+        "搜索排名",
+        "心智锚点"
+      ],
+      "page_task": "对照细分类和大品类搜索位置，设定不同占位目标与品牌关联命题。",
+      "required_evidence": [
+        "同周期同口径搜索指数、排名规则、当前品牌位置、目标依据。"
+      ],
+      "do_not_use_when": "搜索指数被称销售份额，或榜单排序与数值不符仍沿用。",
+      "replacement_guidance": "重排原示例不一致榜单；当前与目标分开，用户心智绑定需调查或搜索关联证据。",
+      "preview": "assets/stratx100/previews/098.png"
+    },
+    {
+      "id": "099",
+      "title": "达人协同种草与UGC承接策略",
+      "source_page": 205,
+      "guide_page": 206,
+      "guide": "references/stratx100/099.md",
+      "selection_terms": [
+        "达人UGC接力",
+        "多产品合作",
+        "买家秀",
+        "真实口碑"
+      ],
+      "page_task": "把两产品达人合作分工与全品类/定向UGC承接机制并列。",
+      "required_evidence": [
+        "产品诉求、达人数量/内容计划、用户真实晒单、征集规则及授权。"
+      ],
+      "do_not_use_when": "用代写/伪造评价充当真实用户实证，或未执行合作写成成效。",
+      "replacement_guidance": "替换产品列、人数及达人类别；UGC截图真实且脱敏，区分征集计划与已有反馈，不补造功效。",
+      "preview": "assets/stratx100/previews/099.png"
+    },
+    {
+      "id": "100",
+      "title": "品牌增长三链策略路径",
+      "source_page": 207,
+      "guide_page": 208,
+      "guide": "references/stratx100/100.md",
+      "selection_terms": [
+        "三链增长",
+        "用户心域",
+        "新品经营",
+        "全域联动"
+      ],
+      "page_task": "总览用户关系、新品经营和全域营销三条链，并说明共同的增长任务。",
+      "required_evidence": [
+        "品牌阶段与目标、三链真实能力、各链执行/复盘机制。"
+      ],
+      "do_not_use_when": "需要具体执行表或成效证明却只有框架，或渠道未互通仍写全域打通。",
+      "replacement_guidance": "三栏分别填用户、新品、营销协同任务；统一策略状态与阶段，用已证资源替换泛化全域口号。",
+      "preview": "assets/stratx100/previews/100.png"
+    }
+  ],
+  "preview_environment": "bundled LibreOffice + Poppler 60dpi; same fontconfig",
+  "preview_font_limit": "Original OPlusSans 3.0/OPPOSans R not installed under exact family names; source/output use same renderer fallback. Embedded original fonts retained in PPTX. Not PowerPoint validation."
+}
